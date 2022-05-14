@@ -2,11 +2,11 @@
 
 翡翠台,mitv://ns2.hellotvvod.com:9906/46af70e8eb97453184dec09a53b16b16.ts,BLANK-播放器①①①
 翡翠台,mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f.ts,BLANK-播放器①①①
-翡翠台,http://113.64.147.10:808/hls/25/index.m3u8
-翡翠台,http://113.64.147.10:808/hls/67/index.m3u8
+翡翠台,http://cdn.hklive.tv/xxxx/81/index.m3u8
 翡翠台,http://120.84.96.33:808/hls/25/index.m3u8
 翡翠台,http://120.84.96.32:808/hls/25/index.m3u8
-翡翠台,http://cdn.hklive.tv/xxxx/81/index.m3u8
+翡翠台,http://113.64.147.10:808/hls/25/index.m3u8
+翡翠台,http://113.64.147.10:808/hls/67/index.m3u8
 
 翡翠台(备),https://cdn.hklive.tv/raw/81b.ts
 翡翠台(备),https://cdn.hklive.tv/raw/81.ts
