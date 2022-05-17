@@ -1,12 +1,12 @@
-﻿🆕综合,#genre#,http://diyp.112114.xyz/
+🆕综合,#genre#,http://diyp.112114.xyz/
 
-翡翠台,mitv://ns2.hellotvvod.com:9906/46af70e8eb97453184dec09a53b16b16.ts,BLANK-播放器①①①
 翡翠台,mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f.ts,BLANK-播放器①①①
-翡翠台,http://cdn.hklive.tv/xxxx/81/index.m3u8
+翡翠台,http://113.64.147.10:808/hls/67/index.m3u8
+翡翠台,mitv://ns2.hellotvvod.com:9906/46af70e8eb97453184dec09a53b16b16.ts,BLANK-播放器①①①
+翡翠台,http://113.64.147.10:808/hls/25/index.m3u8
 翡翠台,http://120.84.96.33:808/hls/25/index.m3u8
 翡翠台,http://120.84.96.32:808/hls/25/index.m3u8
-翡翠台,http://113.64.147.10:808/hls/25/index.m3u8
-翡翠台,http://113.64.147.10:808/hls/67/index.m3u8
+翡翠台,http://cdn.hklive.tv/xxxx/81/index.m3u8
 
 翡翠台(备),https://cdn.hklive.tv/raw/81b.ts
 翡翠台(备),https://cdn.hklive.tv/raw/81.ts
@@ -38,16 +38,14 @@ TVB经典台,mitv://ns2.hellotvvod.com:9906/eb178583d6f24dd0ae6911dea09bec75.ts,
 
 CCM,http://120.84.96.32:808/hls/85/index.m3u8
 
-珠江台,http://113.64.147.10:808/hls/41/index.m3u8
+
 珠江台,http://iptv.eatuo.com:9901/tsfile/live/1001_1.m3u8
 珠江台,http://39.135.32.6:6610/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 
-星空卫视,http://113.64.147.10:808/hls/87/index.m3u8
+
 星空卫视,http://120.84.96.33:808/hls/79/index.m3u8
 星空卫视,mitv://ns2.hellotvvod.com:9906/d620ab7e340d45bf9882f6bf7e359ddf.ts,BLANK-播放器①①①
 
-南方卫视,http://39.135.55.105:6610/PLTV/88888888/224/3221227214/index.m3u8?servicetype=1
-南方卫视,http://111.20.33.70/PLTV/88888893/224/3221226218/index.m3u8
 南方卫视,http://113.64.147.10:808/hls/30/index.m3u8
 南方卫视,http://113.64.147.10:808/hls/80/index.m3u8
 南方卫视,http://120.84.96.33:808/hls/67/index.m3u8
@@ -56,29 +54,27 @@ CCM,http://120.84.96.32:808/hls/85/index.m3u8
 南方卫视,http://117.148.179.160/PLTV/88888888/224/3221231661/index.m3u8
 南方卫视,http://39.135.32.28:6610/PLTV/77777777/224/3221225748/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 南方卫视,http://117.148.179.147/PLTV/88888888/224/3221231661/index.m3u8
+
 南方卫视,http://39.134.65.164/PLTV/88888888/224/3221225845/1.m3u8
 南方卫视,http://39.134.65.179/PLTV/88888888/224/3221225845/1.m3u8
 南方卫视,http://39.134.65.166/PLTV/88888888/224/3221225845/1.m3u8
 南方卫视,http://39.134.65.183/PLTV/88888888/224/3221225845/1.m3u8
 
-广东卫视,http://39.135.55.105:6610/PLTV/88888888/224/3221225824/index.m3u8?servicetype=1
-广东卫视,http://39.135.55.105:6610/PLTV/88888888/224/3221227164/index.m3u8?servicetype=1
-广东卫视,http://111.20.33.70/PLTV/88888893/224/3221226216/index.m3u8
 广东卫视,http://117.148.179.141/PLTV/88888888/224/3221231891/index.m3u8
 广东卫视,http://117.148.179.141/PLTV/88888888/224/3221231891/index.m3u8
 广东卫视,http://117.148.179.159/PLTV/88888888/224/3221231502/index.m3u8
 广东卫视,http://113.64.147.10:808/hls/40/index.m3u8
 广东卫视,http://113.64.147.10:808/hls/91/index.m3u8
 
-广东新闻,http://113.64.147.10:808/hls/28/index.m3u8
 广东新闻,http://183.11.239.32:808/hls/2/index.m3u8
 
-广东公共,http://113.64.147.10:808/hls/27/index.m3u8
 广东公共,http://183.11.239.32:808/hls/3/index.m3u8
-广东影视,http://113.64.147.10:808/hls/31/index.m3u8
-广东影视,http://183.11.239.32:808/hls/8/index.m3u8
+广东公共,http://113.64.147.10:808/hls/27/index.m3u8
 
+广东影视,http://183.11.239.32:808/hls/8/index.m3u8
+广东影视,http://113.64.147.10:808/hls/31/index.m3u8
 广东影视,http://120.84.96.32:808/hls/142/index.m3u8
+
 广东少儿,http://113.64.147.10:808/hls/32/index.m3u8
 广东少儿,http://183.11.239.32:808/hls/9/index.m3u8
 广东少儿,http://120.84.96.32:808/hls/120/index.m3u8
@@ -112,7 +108,6 @@ TVBS欢乐台,mitv://ns2.hellotvvod.com:9906/9ac566fa58ef477f8d477a740b2c6ef8.ts
 中视,mitv://ns2.hellotvvod.com:9906/acfd07c04b2d4dd68ec516b60364e259.ts,BLANK-播放器①①①
 中视,mitv://ns2.hellotvvod.com:9906/e4aa6f73be4e4114941b358933a752ec.ts,BLANK-播放器①①①
 
-民視,http://seb.sason.top/ptv/ftv.php?id=ms
 民视,mitv://ns2.hellotvvod.com:9906/11c4d2233f39422598544af6e2d8ab21.ts,BLANK-播放器①①①
 民视,mitv://ns2.hellotvvod.com:9906/61945a2515b94e049be92ba38613ad67.ts,BLANK-播放器①①①
 民视,http://seb.sason.top/ptv/ftv.php?id=ms
@@ -138,7 +133,6 @@ TVBS欢乐台,mitv://ns2.hellotvvod.com:9906/9ac566fa58ef477f8d477a740b2c6ef8.ts
 澳视MACAU,http://61.244.22.4/ch3/ch3.live/index.m3u8
 
 🇭🇰资讯,#genre#
-
 
 凤凰资讯,http://39.135.55.105:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
 凤凰资讯,http://183.207.249.34/PLTV/3/224/3221226923/index.m3u8
@@ -170,15 +164,10 @@ CCTV4中文国际,http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.
 CCTV13新闻,http://117.148.179.139/PLTV/88888888/224/3221231636/1.m3u8
 CCTV13新闻,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 
-无线新闻,http://ye23.win/iptv/tvb.php?id=1
-无线新闻,http://ye23.win/iptv/tvb.php?id=5
-无线新闻,http://ye23.win/iptv/tvb.php?id=4
-
 无线新闻,mitv://ns2.hellotvvod.com:9906/44ebc38b76fd45228616e077fe9078ea.ts,BLANK-播放器①①①
 无线新闻,mitv://ns2.hellotvvod.com:9906/e23b4b1c159f48b99fe6d1b515e4fe03.ts,BLANK-播放器①①①
 无线新闻,https://cdn.hklive.tv/raw/83.ts
 无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
-無綫新聞,http://ye23.win/iptv/tvb.php?id=3
 
 有线新闻,mitv://ns2.hellotvvod.com:9906/41a80a6c4fe742f196925c5429c4754d.ts,BLANK-播放器①①①
 
@@ -224,18 +213,12 @@ TVBS新闻台,mitv://ns2.hellotvvod.com:9906/279e9ce4943f4d9d896dabd204ce3f88.ts
 
 📽电影,#genre#
 🇨🇳可回看⇊,http://
-
-CCTV6电影,http://39.135.138.59:18890/PLTV/88888910/224/3221225632/index.m3u8
-CCTV6电影,http://111.20.33.70/PLTV/88888893/224/3221226394/index.m3u8
-CCTV6电影,http://111.20.33.70/PLTV/88888893/224/3221226011/index.m3u8
-CCTV6电影,http://111.20.33.70/PLTV/88888893/224/3221226393/index.m3u8
 CCTV6电影,http://117.148.179.153/PLTV/88888888/224/3221231724/index.m3u8
 CCTV6电影,http://117.148.179.136/PLTV/88888888/224/3221231724/1.m3u8
 吴京作品集(咪咕),http://117.148.179.183/PLTV/88888888/224/3221231564/index.m3u8
 高分影院,http://117.148.179.182/PLTV/88888888/224/3221231699/index.m3u8
 云上电影院,http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8
 
-黑莓电影,http://39.135.55.105:6610/PLTV/88888888/224/3221225891/index.m3u8?servicetype=1
 黑莓电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225718/index.m3u8
 黑莓电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225764/index.m3u8
 黑莓电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225769/index.m3u8
@@ -245,16 +228,13 @@ CCTV6电影,http://117.148.179.136/PLTV/88888888/224/3221231724/1.m3u8
 黑莓电影,http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
 
 CHC动作电影,http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8
-CHC动作电影,http://111.20.33.70/PLTV/88888893/224/3221226465/index.m3u8
 CHC动作电影,http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8
 CHC动作电影,http://117.148.179.155/PLTV/88888888/224/3221231580/index.m3u8
 CHC动作电影,http://39.134.19.252:6610/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com,CHC动作电影
 CHC动作电影,http://111.20.41.248/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8?from=everydaytv4.2
 
-CHC高清电影,http://111.20.33.70/PLTV/88888893/224/3221226463/index.m3u8
 CHC高清电影,http://39.134.19.252:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com,CHC高清电影
 
-CHC家庭影院,http://111.20.33.70/PLTV/88888893/224/3221226462/index.m3u8
 CHC家庭影院,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC家庭影院,http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8
 CHC家庭影院,http://111.20.33.93/PLTV/88888893/224/3221226462/index.m3u8
@@ -362,9 +342,6 @@ HKC电影台,mitv://ns2.hellotvvod.com:9906/c2a0e30646ea4ab4abf25454bd27c723.ts,
 美亚电影台,mitv://ns2.hellotvvod.com:9906/f7dabbaf596d415ab7a378a79ff95da9.ts,BLANK-播放器①①①
 靖天电影台,mitv://ns2.hellotvvod.com:9906/5473747fa3474778a974d7f4e3850089.ts,BLANK-播放器①①①
 
-NewTV动作电影,http://39.135.55.105:6610/PLTV/88888888/224/3221225879/index.m3u8?servicetype=1
-NewTV中国功夫,http://39.135.55.105:6610/PLTV/88888888/224/3221225896/index.m3u8?servicetype=1
-
 虎-杰森·斯坦森,http://www.weetai.cn/cdn/iptv/tyzb07.php?id=21059588
 虎-史皇威尔,http://www.weetai.cn/cdn/iptv/tyzb07.php?id=21059587
 虎-是时候该"动手",http://www.weetai.cn/cdn/iptv/tyzb07.php?id=21059574
@@ -416,8 +393,6 @@ NewTV超级电视剧,http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
 
 🇨🇳点播电影⇊,http://
 
-哈迪塞镇之战,https://cdn2.bzjupinhang.com:65/20220510/CQ0aPM4f/index.m3u8
-哈迪塞镇之战,https://cdn2.bzjupinhang.com:65/20220510/CQ0aPM4f/2318kb/hls/index.m3u8
 浴血华沙,https://baidu.sd-play.com/20211018/RAd32yCm/index.m3u8
 浴血华沙,https://baidu.sd-play.com/20211018/RAd32yCm/hls/index.m3u8
 天空,https://pps.sd-play.com/20211225/V51tcm1L/index.m3u8
@@ -835,6 +810,21 @@ J2,https://cdn.hklive.tv/raw/82.ts
 无线财经资讯,https://cdn.hklive.tv/raw/85.ts
 
 📽①①①①⇊,http://
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
