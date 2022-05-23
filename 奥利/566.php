@@ -1,134 +1,93 @@
 🆕综合,#genre#,http://diyp.112114.xyz/
 
 翡翠台,mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f.ts,BLANK-播放器①①①
-翡翠台,http://113.64.147.10:808/hls/67/index.m3u8
-翡翠台,mitv://ns2.hellotvvod.com:9906/46af70e8eb97453184dec09a53b16b16.ts,BLANK-播放器①①①
-翡翠台,http://113.64.147.10:808/hls/25/index.m3u8
+翡翠台,http://120.84.96.25:808/hls/25/index.m3u8
+翡翠台,mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f
 翡翠台,http://120.84.96.33:808/hls/25/index.m3u8
-翡翠台,http://120.84.96.32:808/hls/25/index.m3u8
-翡翠台,http://cdn.hklive.tv/xxxx/81/index.m3u8
 
-翡翠台(备),https://cdn.hklive.tv/raw/81b.ts
-翡翠台(备),https://cdn.hklive.tv/raw/81.ts
-
-明珠台,http://113.64.147.10:808/hls/26/index.m3u8
+明珠台,http://120.84.96.25:808/hls/26/index.m3u8
 明珠台,http://120.84.96.33:808/hls/26/index.m3u8
-明珠台,mitv://ns2.hellotvvod.com:9906/4c897389b9f0425cb08019c8b67fb1af.ts,BLANK-播放器①①①
-明珠台,https://cdn.hklive.tv/raw/84.ts
-明珠台,https://cdn.hklive.tv/raw/84b.ts
 明珠台,http://120.84.96.32:808/hls/26/index.m3u8
 明珠台,http://qwas.eatuo.com:9901/tsfile/live/1014_1.m3u8
-明珠台,p5p://fccs.123178.top:9906/615ae1300007f909044fc997428426ad
+明珠台,http://radius.8866.org:880/hls/84/index.m3u8
 
-J2,https://cdn.hklive.tv/raw/82.ts
+J2,http://120.84.96.29:808/hls/86/index.m3u8
+J2,http://120.84.96.27:808/hls/86/index.m3u8
+J2,http://120.84.96.29:808/hls/86/index.m3u8
+J2,http://120.84.96.30:808/hls/86/index.m3u8
+J2,http://120.84.96.31:808/hls/86/index.m3u8
+J2,http://120.84.96.32:808/hls/86/index.m3u8
+J2,http://120.84.96.33:808/hls/86/index.m3u8
+J2,http://120.84.96.42:808/hls/86/index.m3u8
+J2,http://120.84.96.43:808/hls/86/index.m3u8
+J2,http://120.84.96.46:808/hls/86/index.m3u8
 J2,http://120.84.96.32:808/hls/86/index.m3u8
 J2,http://120.84.96.33:808/hls/86/index.m3u8
 J2,https://h.youtalk.top/hkj2b/49.m3u8
-J2,mitv://ns2.hellotvvod.com:9906/fc1330e28d7a4f608529577fc9d29feb.ts,BLANK-播放器①①①
-
-星河台,http://113.64.147.10:808/hls/135/index.m3u8
-星河台,mitv://ns2.hellotvvod.com:9906/48f13a391b364329984472c4f94a8ae3.ts,BLANK-播放器①①①
 
 TVB剧集台,http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
-TVB经典台,mitv://ns2.hellotvvod.com:9906/eb178583d6f24dd0ae6911dea09bec75.ts,BLANK-播放器①①①
-
-开电视,https://cdn.hklive.tv/raw/77.ts
-
-功夫台,mitv://ns2.hellotvvod.com:9906/72af79647c904298972a741a2f896f33.ts,BLANK-播放器①①①
 
 CCM,http://120.84.96.32:808/hls/85/index.m3u8
-
 
 珠江台,http://iptv.eatuo.com:9901/tsfile/live/1001_1.m3u8
 珠江台,http://39.135.32.6:6610/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 
-
+星空卫视,http://120.84.96.46:808/hls/79/index.m3u8
+星空卫视,http://120.84.96.43:808/hls/79/index.m3u8
 星空卫视,http://120.84.96.33:808/hls/79/index.m3u8
-星空卫视,mitv://ns2.hellotvvod.com:9906/d620ab7e340d45bf9882f6bf7e359ddf.ts,BLANK-播放器①①①
+星空卫视,http://120.84.96.33:808/hls/79/index.m3u8
 
-南方卫视,http://113.64.147.10:808/hls/30/index.m3u8
-南方卫视,http://113.64.147.10:808/hls/80/index.m3u8
-南方卫视,http://120.84.96.33:808/hls/67/index.m3u8
 南方卫视,http://117.148.179.160/PLTV/88888888/224/3221231661/index.m3u8
-南方卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221226203/index.m3u8
 南方卫视,http://117.148.179.160/PLTV/88888888/224/3221231661/index.m3u8
-南方卫视,http://39.135.32.28:6610/PLTV/77777777/224/3221225748/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 南方卫视,http://117.148.179.147/PLTV/88888888/224/3221231661/index.m3u8
-
-南方卫视,http://39.134.65.164/PLTV/88888888/224/3221225845/1.m3u8
-南方卫视,http://39.134.65.179/PLTV/88888888/224/3221225845/1.m3u8
-南方卫视,http://39.134.65.166/PLTV/88888888/224/3221225845/1.m3u8
-南方卫视,http://39.134.65.183/PLTV/88888888/224/3221225845/1.m3u8
+南方卫视{星},http://39.135.138.58:18890/PLTV/88888888/224/3221226203/index.m3u8
+南方卫视{星},http://120.84.96.33:808/hls/67/index.m3u8
+南方卫视{星},http://39.135.32.28:6610/PLTV/77777777/224/3221225748/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+南方卫视{星},http://39.134.65.164/PLTV/88888888/224/3221225845/1.m3u8
+南方卫视{星},http://39.134.65.179/PLTV/88888888/224/3221225845/1.m3u8
+南方卫视{星},http://39.134.65.166/PLTV/88888888/224/3221225845/1.m3u8
+南方卫视{星},http://39.134.65.183/PLTV/88888888/224/3221225845/1.m3u8
 
 广东卫视,http://117.148.179.141/PLTV/88888888/224/3221231891/index.m3u8
 广东卫视,http://117.148.179.141/PLTV/88888888/224/3221231891/index.m3u8
 广东卫视,http://117.148.179.159/PLTV/88888888/224/3221231502/index.m3u8
-广东卫视,http://113.64.147.10:808/hls/40/index.m3u8
-广东卫视,http://113.64.147.10:808/hls/91/index.m3u8
 
 广东新闻,http://183.11.239.32:808/hls/2/index.m3u8
 
 广东公共,http://183.11.239.32:808/hls/3/index.m3u8
-广东公共,http://113.64.147.10:808/hls/27/index.m3u8
 
 广东影视,http://183.11.239.32:808/hls/8/index.m3u8
-广东影视,http://113.64.147.10:808/hls/31/index.m3u8
 广东影视,http://120.84.96.32:808/hls/142/index.m3u8
 
-广东少儿,http://113.64.147.10:808/hls/32/index.m3u8
+
 广东少儿,http://183.11.239.32:808/hls/9/index.m3u8
 广东少儿,http://120.84.96.32:808/hls/120/index.m3u8
 广东体育,http://120.84.96.33:808/hls/22/index.m3u8
 
-广州综合,https://aplay.gztv.com/sec/zhonghe.m3u8
-广州综合,http://aplay.gztv.com/sec/zhonghe.m3u8
-广州综合,https://aplay.gztv.com/sec/zhonghe.m3u8
-广州综合,https://aplay.gztv.com/sec/zhonghe.m3u8
-广州新闻,http://aplay.gztv.com/sec/xinwen.m3u8
 广州新闻,http://ye23.win/iptv/gztv.php?id=xinwen
-广州新闻,http://aplay.gztv.com/sec/xinwen.m3u8
 广州新闻,http://ye23.win/iptv/gztv.php?id=xinwen
-广州新闻,http://aplay.gztv.com/sec/xinwen.m3u8
+
 广州影视,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzys
 广州影视,http://aplay.gztv.com/sec/yingshi.m3u8
 广州影视,https://aplay.gztv.com/sec/yingshi.m3u8
-广州法制,http://aplay.gztv.com/sec/fazhi.m3u8
-广州竞赛,http://aplay.gztv.com/sec/jingsai.m3u8
-
 
 肇庆综合,https://kfs-live.nanyuecloud.com/live/zhaoqing1.m3u8?txSecret=b0aba2adcef2b3fcc75b67a135512c71&txTime=691BD745
 肇庆生活,https://kfs-live.nanyuecloud.com/live/zhaoqing.m3u8?txSecret=78f31f528ff5f05dce53e86dfca199aa&txTime=691BD13D
 肇庆生活,https://kfs-live.nanyuecloud.com/live/zhaoqing.m3u8?txSecret=78f31f528ff5f05dce53e86dfca199aa&txTime=691BD13D
 
-TVBS欢乐台,mitv://ns2.hellotvvod.com:9906/9ac566fa58ef477f8d477a740b2c6ef8.ts,BLANK-播放器①①①
-
-中天娱乐台,mitv://ns2.hellotvvod.com:9906/6e10fc76a1fd49d98257d25575526274.ts,BLANK-播放器①①①
-中天综合台,mitv://ns2.hellotvvod.com:9906/a2576cd8135b419a98d6ed33877a3503.ts,BLANK-播放器①①①
-
-中视,mitv://ns2.hellotvvod.com:9906/acfd07c04b2d4dd68ec516b60364e259.ts,BLANK-播放器①①①
-中视,mitv://ns2.hellotvvod.com:9906/e4aa6f73be4e4114941b358933a752ec.ts,BLANK-播放器①①①
-
-民视,mitv://ns2.hellotvvod.com:9906/11c4d2233f39422598544af6e2d8ab21.ts,BLANK-播放器①①①
-民视,mitv://ns2.hellotvvod.com:9906/61945a2515b94e049be92ba38613ad67.ts,BLANK-播放器①①①
-民视,http://seb.sason.top/ptv/ftv.php?id=ms
-
-华视,mitv://ns2.hellotvvod.com:9906/da0f9125bff04af1aa2bcba6da5d5c3d.ts,BLANK-播放器①①①
-华视,mitv://ns2.hellotvvod.com:9906/f1b8ba02c76c4acc9c54d296d404ea6b.ts,BLANK-播放器①①①
 华视,p5p://fccs.123178.top:9906/615cf279000322040c634d822dea28e8
-
-公视,mitv://ns2.hellotvvod.com:9906/202b1b2ab7d747e5a425633e73eea4c5.ts,BLANK-播放器①①①
-公视,mitv://ns2.hellotvvod.com:9906/282beaa9b1924de0bb79caa660dc567c.ts,BLANK-播放器①①①
 
 大愛,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大愛,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
 澳视卫星,http://103.233.191.132:1935/ch3/ch3.live/playlist.m3u8
 澳视卫星,http://103.233.191.133:1935/ch3/ch3.live/playlist.m3u8
-澳视澳门,http://61.244.22.4/ch1/ch1.live/index.m3u8
+
+
 澳视澳门,http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8
 澳视澳门,http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 澳视澳门,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
-澳门台??,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+
 澳视综艺,http://103.233.191.133:1935/ch6/hd_ch6.live/playlist.m3u8
 澳视MACAU,http://61.244.22.4/ch3/ch3.live/index.m3u8
 
@@ -140,22 +99,18 @@ TVBS欢乐台,mitv://ns2.hellotvvod.com:9906/9ac566fa58ef477f8d477a740b2c6ef8.ts
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
-凤凰资讯,http://113.64.147.10:808/hls/36/index.m3u8
 凤凰资讯,http://111.59.189.40:8445/tsfile/live/1021_1.m3u8
 凤凰资讯,http://120.84.96.33:808/hls/28/index.m3u8
 
 凤凰中文,http://39.135.55.105:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
 凤凰中文,http://111.59.189.40:8445/tsfile/live/1020_1.m3u8
 凤凰中文,http://183.207.249.34/PLTV/3/224/3221226922/index.m3u8
-凤凰中文,http://113.64.147.10:808/hls/37/index.m3u8
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 凤凰中文,http://120.84.96.33:808/hls/29/index.m3u8
 
 凤凰香港,http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
-凤凰香港,http://59.44.10.113:9901/tsfile/live/1080_1.m3u8
-凤凰香港,http://113.64.147.10:808/hls/38/index.m3u8
 凤凰香港,http://120.84.96.33:808/hls/81/index.m3u8
 
 CCTV4中文国际,http://117.148.179.182/PLTV/88888888/224/3221231726/index.m3u8
@@ -164,49 +119,21 @@ CCTV4中文国际,http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.
 CCTV13新闻,http://117.148.179.139/PLTV/88888888/224/3221231636/1.m3u8
 CCTV13新闻,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 
-无线新闻,mitv://ns2.hellotvvod.com:9906/44ebc38b76fd45228616e077fe9078ea.ts,BLANK-播放器①①①
-无线新闻,mitv://ns2.hellotvvod.com:9906/e23b4b1c159f48b99fe6d1b515e4fe03.ts,BLANK-播放器①①①
-无线新闻,https://cdn.hklive.tv/raw/83.ts
-无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
-
-有线新闻,mitv://ns2.hellotvvod.com:9906/41a80a6c4fe742f196925c5429c4754d.ts,BLANK-播放器①①①
-
-Now新闻,http://51.222.193.142:10011/9
-Now新闻,mitv://ns2.hellotvvod.com:9906/b4eec646d04f4c1ebc64899c744a144b.ts,BLANK-播放器①①①
-
-Now直播,http://51.222.193.142:10011/8
+无线新闻,http://radius.8866.org:880/hls/82/index.m3u8
 
 澳视资讯,http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
 澳视资讯,http://103.233.191.133:1935/ch5/info_ch5.live/playlist.m3u8
 
-TVBS新闻台,mitv://ns2.hellotvvod.com:9906/279e9ce4943f4d9d896dabd204ce3f88.ts,BLANK-播放器①①①
-
-东森新闻,mitv://ns2.hellotvvod.com:9906/7c545012cea54fdd8acae0c24555f9bf.ts,BLANK-播放器①①①
-东森新闻,mitv://ns2.hellotvvod.com:9906/0fe69ec2865c4f4ca559f100318dd982.ts,BLANK-播放器①①①
-
-中天新闻,mitv://ns2.hellotvvod.com:9906/e95839a4221f4f5aa977848cb54bbf47.ts,BLANK-播放器①①①
-中天新闻,p5p://fccs.123178.top:9906/6174fe8b000be03302ae798f40145c4c,BLANK-播放器①①①
-
-中视新闻,mitv://ns2.hellotvvod.com:9906/159baefe65b048c8b19597626b66ebeb.ts,BLANK-播放器①①①
-
-民视新闻,mitv://ns2.hellotvvod.com:9906/b7bf0f6b220e413a9c528fcb3f7ff0ea.ts,BLANK-播放器①①①
 民视新闻,p5p://fccs.123178.top:9906/61494a92000be20d0d642b3f9739874e
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 
-华视新闻,mitv://ns2.hellotvvod.com:9906/f4e273cb41d84ed09b2ea2023e61bf13.ts,BLANK-播放器①①①
-
-壹新闻,mitv://ns2.hellotvvod.com:9906/1217d4fa03ea43f3910f4361da712da8.ts,BLANK-播放器①①①
 壹新闻,p5p://fccs.123178.top:9906/61494a29000d70560d62917d35be0fae
-壹新闻,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 
 环宇新闻台,p5p://fccs.123178.top:9906/60434bdc0009a41d06d32342bef082c3.ts
 
-环宇新闻台湾台,mitv://ns2.hellotvvod.com:9906/0b31c823cd2645a5bc254fb3e6e65ae9.ts,BLANK-播放器①①①
-
-台视新闻,mitv://ns2.hellotvvod.com:9906/c7be70432aac4c6fb85a9da31bc7d78e.ts,BLANK-播放器①①①
 台视新闻,https://ssttvv1.6zxr.xyz/tvbs/index.m3u8
 台视新闻,https://ssttvv1.6zxr.xyz/tvbs/hls/index.m3u8
-
-三立新闻,mitv://ns2.hellotvvod.com:9906/e0d8a1f5f2d44f93bcef2eec7a771850.ts,BLANK-播放器①①①
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 
@@ -289,60 +216,38 @@ NewTV超级电影,http://39.134.65.164/PLTV/88888888/224/3221225644/1.m3u8
 
 🇨🇳没回看⇊,http://
 
-好莱坞电影台,mitv://ns2.hellotvvod.com:9906/4f07b5ecd0e14581bbc02fd2b0fcb665.ts,BLANK-播放器①①①
 好莱坞影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
-凤凰电影,mitv://ns2.hellotvvod.com:9906/1e3c1afc66774d3fbfe7650785e194c3.ts,BLANK-播放器①①①
-澳门莲花,mitv://ns2.hellotvvod.com:9906/67809e8ce5194a73b581a1730d217854.ts,BLANK-播放器①①①
+
+澳门莲花,http://120.84.96.25:808/hls/24/index.m3u8
 澳门莲花,http://120.84.96.32:808/hls/24/index.m3u8
 澳门莲花,http://120.84.96.32:808/hls/24/index.m3u8
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
 澳门莲花,http://nettvpro.live/hls/lotustv.php
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
-东森洋片台,mitv://ns2.hellotvvod.com:9906/ecc2509783204bc5b1a3eb8e0485afa9.ts,BLANK-播放器①①①
+
 东森洋片台,http://120.84.96.32:808/hls/33/index.m3u8
-东森电影台,mitv://ns2.hellotvvod.com:9906/fcb2349e9add4546949e252dab867cdf.ts,BLANK-播放器①①①
+
 东森电影台,http://120.84.96.32:808/hls/32/index.m3u8
-
-HBO,mitv://ns2.hellotvvod.com:9906/c38db0c52a2b457e878d665d68c8db6d.ts,BLANK-播放器①①①
-HBO,mitv://ns2.hellotvvod.com:9906/c38db0c52a2b457e878d665d68c8db6d.ts,BLANK-播放器①①①
-
-HBO原创钜献,mitv://ns2.hellotvvod.com:9906/55a7de2974854e9fa40dd475856b1ffc.ts,BLANK-播放器①①①
-HBO原创钜献,mitv://ns2.hellotvvod.com:9906/55a7de2974854e9fa40dd475856b1ffc.ts,BLANK-播放器①①①
-
-HBO强档钜献,mitv://ns2.hellotvvod.com:9906/f5fea9ea86f04fd4aa123409fd00cfb2.ts,BLANK-播放器①①①
-HBO强档钜献,mitv://ns2.hellotvvod.com:9906/f5fea9ea86f04fd4aa123409fd00cfb2.ts,BLANK-播放器①①①
-
-HBO Family(温馨家庭),mitv://ns2.hellotvvod.com:9906/af9ae1d8492442c097471391b5fec198.ts,BLANK-播放器①①①
-HBO Family(温馨家庭),mitv://ns2.hellotvvod.com:9906/af9ae1d8492442c097471391b5fec198.ts,BLANK-播放器①①①
-
-AXN,mitv://ns2.hellotvvod.com:9906/c79d892d683940049c1473ebf8b4b877.ts,BLANK-播放器①①①
-AXN,mitv://ns2.hellotvvod.com:9906/c79d892d683940049c1473ebf8b4b877.ts,BLANK-播放器①①①
-
-AMC最爱电影,mitv://ns2.hellotvvod.com:9906/79ebf03c2cf743608f7a112c102d8fda.ts,BLANK-播放器①①①
-AMC最爱电影,mitv://ns2.hellotvvod.com:9906/79ebf03c2cf743608f7a112c102d8fda.ts,BLANK-播放器①①①
-
-CINEMAX,mitv://ns2.hellotvvod.com:9906/3578676154144473a2a319c9d15b258f.ts,BLANK-播放器①①①
-CINEMAX,mitv://ns2.hellotvvod.com:9906/3578676154144473a2a319c9d15b258f.ts,BLANK-播放器①①①
-
-CinemaWorld,mitv://ns2.hellotvvod.com:9906/e8ca875e5c5d4b648516f37537667d62.ts,BLANK-播放器①①①
-CinemaWorld,mitv://ns2.hellotvvod.com:9906/e8ca875e5c5d4b648516f37537667d62.ts,BLANK-播放器①①①
-
-CatchPlay电影台,mitv://ns2.hellotvvod.com:9906/83e22a2167674d0abb862cd4e6beedcc.ts,BLANK-播放器①①①
-CatchPlay电影台,mitv://ns2.hellotvvod.com:9906/83e22a2167674d0abb862cd4e6beedcc.ts,BLANK-播放器①①①
-
-BOO,mitv://ns2.hellotvvod.com:9906/0c20dead5aec4141929b44ce5a1c24af.ts,BLANK-播放器①①①
 
 欧美影院,http://39.136.48.4:8089/PLTV/88888888/224/3221226345/index.m3u8
 亚洲影院,http://39.136.48.2:8089/PLTV/88888888/224/3221225844/index.m3u8
 
-HKC电影台,mitv://ns2.hellotvvod.com:9906/c2a0e30646ea4ab4abf25454bd27c723.ts,BLANK-播放器①①①
-爆谷星影台,mitv://ns2.hellotvvod.com:9906/bea851aaac474654946ee4ead74e2e6f.ts,BLANK-播放器①①①
-美亚电影台,mitv://ns2.hellotvvod.com:9906/f7dabbaf596d415ab7a378a79ff95da9.ts,BLANK-播放器①①①
-靖天电影台,mitv://ns2.hellotvvod.com:9906/5473747fa3474778a974d7f4e3850089.ts,BLANK-播放器①①①
+中国高清电影,http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?accountinfo=OMDVq6b4lEslJm1UnEjrD67bT%2BdBi%2FstmegbNVdYPJSeBmMWSNPD7Wrrjb2ZDi7Um5UxWiZupPnRfM4wLeS74RrZe%2BRE99EyWRk%2B%2Fh2ZwKeBjD%2BfZ9Mz5UmtqpVNJkd9dPTPolsaS4II0YdOjxvNng%3D%3D%3A20201004145232%2C60D21CCCB8A5%2C112.64.2.198%2C20201004145232%2C10000100000000050000000003887498%2CA23CC1CD0AC72C120DCED3BED1AC1863%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C17%2C%2C2%2CEND&GuardEncType=2
+漫威宇宙电影,http://txtest-xp2p.p2p.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.xs
+DVD电影院,http://117.148.179.159/PLTV/88888888/224/3221231640/index.m3u8
+金庸武侠电影,http://117.148.179.132/PLTV/88888888/224/3221231477/index.m3u8
+KK_喜剧电影,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
+KK_女神影院,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
+咪咕Y+,http://117.148.179.146/PLTV/88888888/224/3221230226/index.m3u8
+百视通电影1,http://39.135.55.105:6610/PLTV/88888888/224/3221226708/index.m3u8?servicetype=1,13号测
+百视通电影2,http://39.135.55.105:6610/PLTV/88888888/224/3221226712/index.m3u8?servicetype=1,13号测
 
+
+虎-杰森·斯坦森,http://ikands.xyz/tv/huya?type=1&id=21059588&tv_time=1
 虎-杰森·斯坦森,http://www.weetai.cn/cdn/iptv/tyzb07.php?id=21059588
+虎-史皇威尔,http://ikands.xyz/tv/huya?type=1&id=21059587&tv_time=1
 虎-史皇威尔,http://www.weetai.cn/cdn/iptv/tyzb07.php?id=21059587
 虎-是时候该"动手",http://www.weetai.cn/cdn/iptv/tyzb07.php?id=21059574
 虎-值得一看,http://www.weetai.cn/cdn/iptv/tyzb07.php?id=21059592
@@ -354,17 +259,6 @@ HKC电影台,mitv://ns2.hellotvvod.com:9906/c2a0e30646ea4ab4abf25454bd27c723.ts,
 虎-吴京,http://www.weetai.cn/cdn/iptv/tyzb07.php?id=11602045
 虎-灾难大片,http://www.weetai.cn/cdn/iptv/tyzb07.php?id=11352887
 虎-历年贺岁档,http://www.weetai.cn/cdn/iptv/tyzb07.php?id=11601986
-
-中国高清电影,http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?accountinfo=OMDVq6b4lEslJm1UnEjrD67bT%2BdBi%2FstmegbNVdYPJSeBmMWSNPD7Wrrjb2ZDi7Um5UxWiZupPnRfM4wLeS74RrZe%2BRE99EyWRk%2B%2Fh2ZwKeBjD%2BfZ9Mz5UmtqpVNJkd9dPTPolsaS4II0YdOjxvNng%3D%3D%3A20201004145232%2C60D21CCCB8A5%2C112.64.2.198%2C20201004145232%2C10000100000000050000000003887498%2CA23CC1CD0AC72C120DCED3BED1AC1863%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C17%2C%2C2%2CEND&GuardEncType=2
-漫威宇宙电影,http://txtest-xp2p.p2p.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.xs
-DVD电影院,http://117.148.179.159/PLTV/88888888/224/3221231640/index.m3u8
-金庸武侠电影,http://117.148.179.132/PLTV/88888888/224/3221231477/index.m3u8
-KK_喜剧电影,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
-KK_女神影院,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
-咪咕Y+,http://117.148.179.146/PLTV/88888888/224/3221230226/index.m3u8
-百视通电影1,http://39.135.55.105:6610/PLTV/88888888/224/3221226708/index.m3u8?servicetype=1,13号测
-百视通电影2,http://39.135.55.105:6610/PLTV/88888888/224/3221226712/index.m3u8?servicetype=1,13号测
-百视通电影3,http://39.135.55.105:6610/PLTV/88888888/224/3221227130/index.m3u8?servicetype=1,13号测
 
 
 🇨🇳回看剧集⇊,http://
