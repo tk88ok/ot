@@ -159,13 +159,14 @@ TVBS新闻台,http://119.29.145.154:9999/hh.php?tid=gt&id=54
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 
 
-📽电影,#genre#
-📽直播台⇊,http://
+🛰️电影,#genre#
+🌎直播台⇊,http://
 
 CCTV6电影,http://117.148.179.153/PLTV/88888888/224/3221231724/index.m3u8
 CCTV6电影,http://117.148.179.136/PLTV/88888888/224/3221231724/1.m3u8
 好莱坞电影,http://59.125.101.187:8754/http/192.168.77.24:8081/hls/74/816/ch55.m3u8
 好莱坞影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
@@ -190,7 +191,7 @@ CCTV6电影,http://117.148.179.136/PLTV/88888888/224/3221231724/1.m3u8
 CCM,http://120.84.96.32:808/hls/85/index.m3u8
 TVB剧集台,http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
 
-📽可回看轮播⇊,http://
+🌎可回看轮播⇊,http://
 
 吴京作品集(咪咕),http://117.148.179.183/PLTV/88888888/224/3221231564/index.m3u8
 高分影院,http://117.148.179.182/PLTV/88888888/224/3221231699/index.m3u8
@@ -271,18 +272,9 @@ NewTV超级电影,http://39.134.65.164/PLTV/88888888/224/3221225644/1.m3u8
 经典贺岁片,http://117.148.179.159/PLTV/88888888/224/3221231679/index.m3u8 
 
 
-📽没回看轮播⇊,http://
+🌎没回看轮播⇊,http://
 
 中国高清电影,http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?accountinfo=OMDVq6b4lEslJm1UnEjrD67bT%2BdBi%2FstmegbNVdYPJSeBmMWSNPD7Wrrjb2ZDi7Um5UxWiZupPnRfM4wLeS74RrZe%2BRE99EyWRk%2B%2Fh2ZwKeBjD%2BfZ9Mz5UmtqpVNJkd9dPTPolsaS4II0YdOjxvNng%3D%3D%3A20201004145232%2C60D21CCCB8A5%2C112.64.2.198%2C20201004145232%2C10000100000000050000000003887498%2CA23CC1CD0AC72C120DCED3BED1AC1863%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C17%2C%2C2%2CEND&GuardEncType=2
-漫威宇宙电影,http://txtest-xp2p.p2p.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.xs
-DVD电影院,http://117.148.179.159/PLTV/88888888/224/3221231640/index.m3u8
-金庸武侠电影,http://117.148.179.132/PLTV/88888888/224/3221231477/index.m3u8
-KK_喜剧电影,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
-KK_女神影院,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
-咪咕Y+,http://117.148.179.146/PLTV/88888888/224/3221230226/index.m3u8
-百视通电影1,http://39.135.55.105:6610/PLTV/88888888/224/3221226708/index.m3u8?servicetype=1,13号测
-百视通电影2,http://39.135.55.105:6610/PLTV/88888888/224/3221226712/index.m3u8?servicetype=1,13号测
-
 虎-杰森·斯坦森,http://txtest-xp2p.p2p.huya.com/src/1099531752779-1099531752779-86436229716901888-2199063629014-10057-A-0-1.xs#房间号21059588
 虎-大场面战争片,http://txtest-xp2p.p2p.huya.com/src/1099531752768-1099531752768-86436182472261632-2199063628992-10057-A-0-1.xs#房间号21059574
 虎-特种部队出发,http://txtest-xp2p.p2p.huya.com/src/1099531752783-1099531752783-86436246896771072-2199063629022-10057-A-0-1.xs#房间号21059592
@@ -291,7 +283,9 @@ KK_女神影院,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
 虎-惊心动魄的灾难片,http://txtest-xp2p.p2p.huya.com/src/1524439836-1524439836-6547419240339603456-3049003128-10057-A-0-1.xs#房间号11602075
 虎-文明观球,http://txtest-xp2p.p2p.huya.com/src/1099531840858-1099531840858-86814526141366272-2199063805172-10057-A-0-1.xs#房间号26355779
 虎-动作电影来啦,http://txtest-xp2p.p2p.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.xs#房间号11602077
+虎-漫威宇宙电影,http://txtest-xp2p.p2p.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.xs
 虎-喜剧专场,http://txtest-xp2p.p2p.huya.com/src/1524434089-1524434089-6547394557162553344-3048991634-10057-A-0-1.xs#房间号11602044
+虎-玄幻系列,http://txtest-xp2p.p2p.huya.com/src/1423787882-1423787882-6115122389631107072-2847699220-10057-A-0-1.xs
 虎-经典译制片,http://txtest-xp2p.p2p.huya.com/src/1699743022-1699743022-7300340691094208512-3399609500-10057-A-0-1.xs#房间号24380318
 虎-经典女神,http://txtest-xp2p.p2p.huya.com/src/1423782080-1423782080-6115097470230855680-2847687616-10057-A-0-1.xs#房间号11352909
 虎-宇宙的真相,http://txtest-xp2p.p2p.huya.com/src/1099531840876-1099531840876-86814603450777600-2199063805208-10057-A-0-1.xs#房间号26355797
@@ -302,9 +296,15 @@ KK_女神影院,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
 虎-赛车系列,http://txtest-xp2p.p2p.huya.com/src/1354978385-1354978385-5819587850361896960-2710080226-10057-A-0-1.xs
 虎-史皇威尔,http://ikands.xyz/tv/huya?type=1&id=21059587&tv_time=1
 虎-史皇威尔,http://www.weetai.cn/cdn/iptv/tyzb07.php?id=21059587
+DVD电影院,http://117.148.179.159/PLTV/88888888/224/3221231640/index.m3u8
+金庸武侠电影,http://117.148.179.132/PLTV/88888888/224/3221231477/index.m3u8
+KK_喜剧电影,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
+KK_女神影院,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
+咪咕Y+,http://117.148.179.146/PLTV/88888888/224/3221230226/index.m3u8
+百视通电影1,http://39.135.55.105:6610/PLTV/88888888/224/3221226708/index.m3u8?servicetype=1,13号测
+百视通电影2,http://39.135.55.105:6610/PLTV/88888888/224/3221226712/index.m3u8?servicetype=1,13号测
 
-
-📽回看剧集⇊,http://
+🌎回看剧集⇊,http://
 武侠剧场(MIGU),http://117.148.179.160/PLTV/88888888/224/3221231763/index.m3u8 
 金庸频道,http://117.148.179.132/PLTV/88888888/224/3221231477/index.m3u8 
 黄金剧场(MIGU),http://117.148.179.183/PLTV/88888888/224/3221231637/index.m3u8 
@@ -328,17 +328,20 @@ NewTV精品大剧,http://117.148.179.49/PLTV/88888888/224/3221229017/index.m3u8
 NewTV超级电视剧,http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
 
 
-📽点播电影⇊,http://
-
-浴血华沙,https://baidu.sd-play.com/20211018/RAd32yCm/index.m3u8
+🌎点播电影⇊,http://
+血拼大西洋,https://api.nxflv.com/Cache/SoHu/204e40d73847c5e555d3118ecaf94273.m3u8
+血拼大西洋,https://cdn2.bzjupinhang.com:65/20211221/4uXPPX3K/index.m3u8
+血拼大西洋,https://cdn2.bzjupinhang.com:65/20211221/4uXPPX3K/1739kb/hls/index.m3u8
+斯大林格勒,https://vod2.bdzybf7.com/20220329/5FfTx86s/2000kb/hls/index.m3u8
+斯大林格勒,https://wolongzywcdn2.com:65/20220502/J7zkfcbl/2000kb/hls/index.m3u8
 浴血华沙,https://baidu.sd-play.com/20211018/RAd32yCm/hls/index.m3u8
+浴血华沙,https://baidu.sd-play.com/20211018/RAd32yCm/index.m3u8
 天空,https://pps.sd-play.com/20211225/V51tcm1L/index.m3u8
 天空,https://pps.sd-play.com/20211225/V51tcm1L/1000kb/hls/index.m3u8
 现代启示录,https://baidu.sd-play.com/20211018/GZXOgAYT/index.m3u8
 现代启示录,https://baidu.sd-play.com/20211018/GZXOgAYT/hls/index.m3u8
-狙击手,https://qq.sd-play.com/20220325/lzt9Gi7T/index.m3u8
 狙击手,https://qq.sd-play.com/20220325/lzt9Gi7T/hls/index.m3u8
-狙击手,https://hll.aliyundrive.asia/vtt/movie1/m/01/%E7%8B%99%E5%87%BB%E6%89%8B.m3u8
+狙击手,https://qq.sd-play.com/20220325/lzt9Gi7T/index.m3u8
 光荣岁月,https://baidu.sd-play.com/20211017/3jM092cp/index.m3u8
 光荣岁月,https://baidu.sd-play.com/20211017/3jM092cp/hls/index.m3u8
 潘菲洛夫28勇士,https://pps.sd-play.com/20211117/0hxRiE5O/index.m3u8
@@ -349,10 +352,8 @@ NewTV超级电视剧,http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
 不惧风暴,https://baidu.sd-play.com/20211017/k7X42N9Y/hls/index.m3u8
 冰峰游戏,https://wolongzywcdn.com:65/20220417/fREVBU9R/index.m3u8
 冰峰游戏,https://wolongzywcdn.com:65/20220417/fREVBU9R/2000kb/hls/index.m3u8
-
 王牌特工：源起,https://api.czspp.com:81/m3/c549ed133d1651015269/ixDR95MU2KkzEZzolGWs0ttW_Ae7pa3MxNY7a9PZPCDBw3Ecen3kn17bUMmiAchUxJrPmCujd8BodcLu3f4KWg.m3u8
 神秘海域,https://v9-default.ixigua.com/3a57e14f26b896639594ab8a89f0e964/6268322d/video/tos/cn/tos-cn-v-c9e10a/c1d40293ac144558a6b6c6c59c6fdb3c/?a=0&br=2436&bt=2436&cd=0%7C0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=4&er=0&ft=UCQ.C__Aag3-Inz&l=021650985194019fdbddc0100fff0020a9c1e990000026ef6eeb3&lr=default&mime_type=video_mp4&net=0&pl=0&qs=13&rc=anR2djk6ZnF1PDMzNGhmM0ApO2Q2aXg6dWlrZjMzajs1eWc1XjBjcjRvY2VgLS1kNS9zc2RucHAzNGBrbzYtLS5iYC06Yw%3D%3D&vl=&vr=
-狙击手,https://hll.aliyundrive.asia/vtt/movie1/m/01/%E7%8B%99%E5%87%BB%E6%89%8B.m3u8
 猪排山,https://cdn2.bzjupinhang.com:65/20211215/4K2K4EvE/index.m3u8
 简介印第安纳波利斯号,https://hnzy3.hnzyww.com:65/20220407/NrujVd65/index.m3u8
 我们曾是战士,https://v.v1kd.com/20211115/3MjQ4vnt/2000kb/hls/index.m3u8
