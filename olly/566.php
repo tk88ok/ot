@@ -381,6 +381,7 @@ NewTV超级电视剧,http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
 天空,https://pps.sd-play.com/20211225/V51tcm1L/1000kb/hls/index.m3u8
 现代启示录,https://baidu.sd-play.com/20211018/GZXOgAYT/index.m3u8
 现代启示录,https://baidu.sd-play.com/20211018/GZXOgAYT/hls/index.m3u8
+狙击手,https://qq.sd-play.com/20220325/lzt9Gi7T/hls/index.m3u8?skipl=1
 狙击手,https://qq.sd-play.com/20220325/lzt9Gi7T/hls/index.m3u8
 狙击手,https://qq.sd-play.com/20220325/lzt9Gi7T/index.m3u8
 光荣岁月,https://baidu.sd-play.com/20211017/3jM092cp/index.m3u8
