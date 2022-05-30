@@ -1,11 +1,11 @@
 🌎综合,#genre#,http://diyp.112114.xyz/
 
-翡翠台,http://liuy.usa7.20212021.ga/ns.php?id=78
 翡翠台,mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f.ts,BLANK-播放器①①①
 翡翠台,http://120.84.96.25:808/hls/25/index.m3u8
 翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
 翡翠台,mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f
 翡翠台,http://120.84.96.33:808/hls/25/index.m3u8
+翡翠台,http://liuy.usa7.20212021.ga/ns.php?id=78
 
 明珠台,http://120.84.96.25:808/hls/26/index.m3u8
 明珠台,http://120.84.96.33:808/hls/26/index.m3u8
