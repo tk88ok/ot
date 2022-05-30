@@ -7,6 +7,11 @@
 翡翠台,http://120.84.96.33:808/hls/25/index.m3u8
 翡翠台,http://liuy.usa7.20212021.ga/ns.php?id=78
 
+翡翠台1,https://hdl-ws.zego.wakavideos.com/wakavideos/16af86e3ac93dabb9786a6ee68a66ce7.flv$牛视网
+翡翠台2,https://hdl-ws.zego.wakavideos.com/wakavideos/8becdd21da44e6026b9b89bed55ec6de.flv$牛视网
+翡翠台3,https://hdl-ws.zego.wakavideos.com/wakavideos/5d6e57c8a3b4ae19bbcaa030c0c75d9d.flv,牛视网
+翡翠台4,https://hdl-ws.zego.wakavideos.com/wakavideos/4c46d359b59a9fe538dfc7c9963b28a2.flv,牛视网
+
 明珠台,http://120.84.96.25:808/hls/26/index.m3u8
 明珠台,http://120.84.96.33:808/hls/26/index.m3u8
 明珠台,http://120.84.96.32:808/hls/26/index.m3u8
