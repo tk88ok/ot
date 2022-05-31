@@ -7,22 +7,11 @@
 翡翠台,http://120.84.96.33:808/hls/25/index.m3u8
 翡翠台,http://liuy.usa7.20212021.ga/ns.php?id=78
 
-翡翠台(备),http://183.238.66.1:9090/live/1350_4500.m3u8?t=alD6MviGLGyFEPW5ON4LCA==&u=18061055756&p=1&pid=&cid=602&d=32eacc452603e2b1&sid=yM65gFhhhEtD9yEeymdu1Q==&r=20220530212524&e=20220531032529&nc=uqnDyzgz1igB&a=1&v=2&isSuma=1&hlsSessionID=2169892244195026537&srchost=172.16.149.181:8060&gid=HDJrji%2Be7n3fcg%2FEzsp7yw%3D%3D$太阳直播
-翡翠台(备),http://27.36.62.163:9090/live/1350_4500.m3u8?t=alD6MviGLGyFEPW5ON4LCA==&u=18061055756&p=1&pid=&cid=602&d=32eacc452603e2b1&sid=9X9GhFRehDH24luicHAsxg==&r=20220530213837&e=20220531033842&nc=g4dbDeqilPkg&a=1&v=2&isSuma=1&hlsSessionID=461057660585250422&srchost=172.16.149.181:8060&gid=VOnUOc6Tvequ1UiI2LR7gA%3D%3D$太阳直播
-翡翠台(备),http://27.36.62.163:9090/live/1350_1500.m3u8?t=alD6MviGLGyFEPW5ON4LCA==&u=18061055756&p=1&pid=&cid=602&d=32eacc452603e2b1&sid=Ev0c7QZH3ikkTBVHVTluUw==&r=20220530212609&e=20220531032614&nc=GrPBahNH9bxl&a=1&v=2&isSuma=1&hlsSessionID=2169892244195026580&srchost=172.16.149.181:8060&gid=N5urPJCGW4S9H40d%2BWs2TA%3D%3D$太阳直播
-翡翠台(备),http://27.36.62.163:9090/live/1350_1500.m3u8?t=alD6MviGLGyFEPW5ON4LCA==&u=18061055756&p=1&pid=&cid=602&d=32eacc452603e2b1&sid=EydEpjm5EVTmG4s8ztUh8g==&r=20220530213945&e=20220531033950&nc=W3ri27RpYblT&a=1&v=2&isSuma=1&hlsSessionID=461057660585250572&srchost=172.16.149.181:8060&gid=9x1XSq8yxcyfyo%2FDjCI%2FtQ%3D%3D$太阳直播
-翡翠台(备),http://27.36.62.162:9090/live/xgfeicui_1500.m3u8?t=alD6MviGLGyFEPW5ON4LCA==&u=18061055756&p=1&pid=&cid=602&d=32eacc452603e2b1&sid=76FFyIw5XZM3Cga4Gwb2ew==&r=20220530212708&e=20220531032713&nc=0CPCvo97vArS&a=1&v=2&isSuma=1&hlsSessionID=2169892244195026659&srchost=172.16.149.181:8060&gid=LcvapFOk9WtTNMuwmKkjSg%3D%3D$太阳直播
-翡翠台(备),http://27.36.62.162:9090/live/xgfeicui_1500.m3u8?t=alD6MviGLGyFEPW5ON4LCA==&u=18061055756&p=1&pid=&cid=602&d=32eacc452603e2b1&sid=+FpwIFD6uZ9TBBcJA28fxw==&r=20220530214111&e=20220531034116&nc=MxJVUcez9xT2&a=1&v=2&isSuma=1&hlsSessionID=461057660585250801&srchost=172.16.149.181:8060&gid=ybfZv0zY3dnhb4vwYq2dcg%3D%3D$太阳直播
-
 明珠台,http://120.84.96.25:808/hls/26/index.m3u8
 明珠台,http://120.84.96.33:808/hls/26/index.m3u8
 明珠台,http://120.84.96.32:808/hls/26/index.m3u8
 明珠台,http://qwas.eatuo.com:9901/tsfile/live/1014_1.m3u8
 明珠台,http://radius.8866.org:880/hls/84/index.m3u8
-
-明珠台(备),http://27.36.62.162:9090/live/1351_4500.m3u8?t=alD6MviGLGyFEPW5ON4LCA==&u=18061055756&p=1&pid=&cid=602&d=32eacc452603e2b1&sid=fCrpBtauM1Z1UUgVNQGd6w==&r=20220530212745&e=20220531032750&nc=gSW9vSFQEsbe&a=1&v=2&isSuma=1&hlsSessionID=2169892244195026701&srchost=172.16.149.181:8060&gid=IL5IJsyHHviN5Kp8Tp4gqw%3D%3D$太阳直播
-明珠台(备),http://183.238.66.1:9090/live/1351_1500.m3u8?t=alD6MviGLGyFEPW5ON4LCA==&u=18061055756&p=1&pid=&cid=602&d=32eacc452603e2b1&sid=konGFgh3YN+DyACChGRbJw==&r=20220530212824&e=20220531032829&nc=7qPcT0U2jBjD&a=1&v=2&isSuma=1&hlsSessionID=2169892244195026738&srchost=172.16.149.181:8060&gid=xZ29BVHWN2HcXM3VRnktSw%3D%3D$太阳直播
-明珠台(备),http://27.36.62.162:9090/live/xgmingzhu_1500.m3u8?t=alD6MviGLGyFEPW5ON4LCA==&u=18061055756&p=1&pid=&cid=602&d=32eacc452603e2b1&sid=lhs8RdeYX+xY0iXNNHzgDQ==&r=20220530212900&e=20220531032905&nc=sKDyd5Dfie66&a=1&v=2&isSuma=1&hlsSessionID=2169892244195026782&srchost=172.16.149.181:8060&gid=3y11rXLMfQqjwtpEGYfSVw%3D%3D$太阳直播
 
 开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
@@ -115,13 +104,6 @@ J2,http://119.29.145.154:9999/hh.php?tid=gt&id=12
 
 🌎资讯,#genre#
 
-凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8$太阳直播
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8$太阳直播
-凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8$太阳直播
-凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv2.m3u8$太阳直播
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8$太阳直播
-凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8$太阳直播
-
 凤凰资讯,http://39.135.55.105:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
 凤凰资讯,http://183.207.249.34/PLTV/3/224/3221226923/index.m3u8
 凤凰资讯,http://39.135.55.10:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1&IASHttpSessionId=OTT3410420220406144433022303
@@ -150,7 +132,6 @@ CCTV4中文国际,http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.
 CCTV4中文国际,http://117.148.179.182/PLTV/88888888/224/3221231726/index.m3u8
 CCTV4中文国际,http://113.64.147.107:808/hls/4/index.m3u8
 
-CCTV13新闻,http://183.238.66.1:9090/live/yueyuHD_7000.m3u8?t=alD6MviGLGyFEPW5ON4LCA==&u=18061055756&p=1&pid=&cid=602&d=32eacc452603e2b1&sid=7k4m4MDV/Fs9maxWCKzYJg==&r=20220530210924&e=20220531030929&nc=2dd4bcPcx0pR&a=1&v=2&isSuma=1&hlsSessionID=461057660585247822&srchost=172.16.149.181:8060&gid=fg6%2BT8J%2BpANAZm1fP6r%2FHw%3D%3D
 CCTV13新闻,http://111.63.117.13:6060/030000001000/CCTV-13/CCTV-13.m3u8?fmt=ts2hls
 CCTV13新闻,http://117.148.179.139/PLTV/88888888/224/3221231636/1.m3u8
 
@@ -194,14 +175,15 @@ TVBS新闻台,http://119.29.145.154:9999/hh.php?tid=gt&id=54
 🛰️电影,#genre#
 🌎直播台⇊,http://
 
-??,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
 CCTV6电影,http://117.148.179.153/PLTV/88888888/224/3221231724/index.m3u8
 CCTV6电影,http://111.63.117.13:6060/030000001000/CCTV-6/CCTV-6.m3u8?fmt=ts2hls
 CCTV6电影,http://111.63.117.13:6060/030000001000/CCTV-6/CCTV-6.m3u8?fmt=ts2hls
 CCTV6电影,http://117.148.179.136/PLTV/88888888/224/3221231724/1.m3u8
 好莱坞电影,http://59.125.101.187:8754/http/192.168.77.24:8081/hls/74/816/ch55.m3u8
 好莱坞影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+好莱坞影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+好莱坞影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
