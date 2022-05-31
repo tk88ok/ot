@@ -1,10 +1,10 @@
 🌎综合,#genre#,http://diyp.112114.xyz/
 
 翡翠台,mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f.ts,BLANK-播放器①①①
+翡翠台,http://120.84.96.33:808/hls/25/index.m3u8
 翡翠台,http://120.84.96.25:808/hls/25/index.m3u8
 翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
 翡翠台,mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f
-翡翠台,http://120.84.96.33:808/hls/25/index.m3u8
 翡翠台,http://liuy.usa7.20212021.ga/ns.php?id=78
 
 明珠台,http://120.84.96.25:808/hls/26/index.m3u8
@@ -15,14 +15,14 @@
 
 开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
-J2,http://120.84.96.32:808/hls/86/index.m3u8$太阳直播
+J2,http://120.84.96.33:808/hls/86/index.m3u8
+J2,http://120.84.96.32:808/hls/86/index.m3u8
 J2,http://120.84.96.29:808/hls/86/index.m3u8
 J2,http://120.84.96.27:808/hls/86/index.m3u8
 J2,http://120.84.96.29:808/hls/86/index.m3u8
 J2,http://120.84.96.30:808/hls/86/index.m3u8
 J2,http://120.84.96.31:808/hls/86/index.m3u8
 J2,http://120.84.96.32:808/hls/86/index.m3u8
-J2,http://120.84.96.33:808/hls/86/index.m3u8
 J2,http://120.84.96.42:808/hls/86/index.m3u8
 J2,http://120.84.96.43:808/hls/86/index.m3u8
 J2,http://120.84.96.46:808/hls/86/index.m3u8
@@ -104,6 +104,7 @@ J2,http://119.29.145.154:9999/hh.php?tid=gt&id=12
 
 🌎资讯,#genre#
 
+凤凰资讯,http://120.84.96.33:808/hls/28/index.m3u8
 凤凰资讯,http://39.135.55.105:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
 凤凰资讯,http://183.207.249.34/PLTV/3/224/3221226923/index.m3u8
 凤凰资讯,http://39.135.55.10:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1&IASHttpSessionId=OTT3410420220406144433022303
@@ -136,12 +137,15 @@ CCTV13新闻,http://111.63.117.13:6060/030000001000/CCTV-13/CCTV-13.m3u8?fmt=ts2
 CCTV13新闻,http://117.148.179.139/PLTV/88888888/224/3221231636/1.m3u8
 
 无线新闻,http://ye23.win/iptv/tvb.php?id=1
+无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
+无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
 无线新闻,http://ye23.win/iptv/tvb.php?id=5
 无线新闻,http://ye23.win/iptv/tvb.php?id=4
 无线新闻,http://ye23.win/iptv/tvb.php?id=1
 无线新闻,http://ye23.win/iptv/tvb.php?id=5
 无线新闻,http://ye23.win:80/iptv/tvb.php?id=5
 无线新闻,http://radius.8866.org:880/hls/82/index.m3u8
+
 
 澳视资讯,http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
 澳视资讯,http://103.233.191.133:1935/ch5/info_ch5.live/playlist.m3u8
@@ -188,7 +192,8 @@ CCTV6电影,http://117.148.179.136/PLTV/88888888/224/3221231724/1.m3u8
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 
-莲花卫视,http://epg.112114.xyz/lotus
+澳门莲花,http://epg.112114.xyz/lotus
+澳门莲花,http://120.84.96.33:808/hls/24/index.m3u8
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
 澳门莲花,http://120.84.96.32:808/hls/24/index.m3u8
 澳门莲花,http://120.84.96.25:808/hls/24/index.m3u8
@@ -200,12 +205,14 @@ CCTV6电影,http://117.148.179.136/PLTV/88888888/224/3221231724/1.m3u8
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
 
 东森洋片台,http://120.84.96.32:808/hls/33/index.m3u8
-
-东森电影台,http://120.84.96.32:808/hls/32/index.m3u8
+东森电影,http://120.84.96.33:808/hls/32/index.m3u8
+东森电影,http://120.84.96.32:808/hls/32/index.m3u8
 欧美电影,http://39.135.49.20:6610/PLTV/88888888/224/3221226712/1.m3u8?servicetype=1
 欧美影院,http://39.136.48.4:8089/PLTV/88888888/224/3221226345/index.m3u8
 亚洲影院,http://39.136.48.2:8089/PLTV/88888888/224/3221225844/index.m3u8
 纬来电影,http://59.125.101.187:8710/http/192.168.77.24:8081/hls/69/811/ch35.m3u8
+龙祥时代,http://120.84.96.33:808/hls/35/index.m3u8
+CCM,http://120.84.96.33:808/hls/85/index.m3u8
 CCM,http://120.84.96.32:808/hls/85/index.m3u8
 TVB剧集台,http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
 
@@ -864,12 +871,6 @@ J2,https://cdn.hklive.tv/raw/82.ts
 无线财经资讯,https://cdn.hklive.tv/raw/85.ts
 
 📽①①①①⇊,http://
-
-
-中天新闻,https://manifest.googlevideo.com/api/manifest/dash/expire/1654009540/ei/ZNqVYvr9FpvN2roPp_aEmA4/ip/103.242.143.250/id/_QbRXRnHMVY.1/source/yt_live_broadcast/requiressl/yes/tx/24197276/txs/24197275%2C24197276%2C24197277/as/fmp4_audio_clear%2Cwebm_audio_clear%2Cwebm2_audio_clear%2Cfmp4_sd_hd_clear%2Cwebm2_sd_hd_clear/spc/4ocVC5Yhb4DYQM1iWxP8cmRpqVXQ/vprv/1/pacing/0/keepalive/yes/fexp/24001373%2C24007246/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Cas%2Cspc%2Cvprv%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgFWRSHieySgyXyIWh-w9G-WC98naQG5U5FKCoc5xYMJQCIEpUJD9qNQqiecnLkeZxuCA0JwMidO_dknZUva4BKMhV
-
-中视新闻,https://manifest.googlevideo.com/api/manifest/dash/expire/1654012665/ei/meaVYpXyE-KqvcAP0tOD4AQ/ip/103.242.143.250/id/TCnaIE_SAtM.1/source/yt_live_broadcast/requiressl/yes/tx/24197276/txs/24197275%2C24197276%2C24197277/as/fmp4_audio_clear%2Cwebm_audio_clear%2Cwebm2_audio_clear%2Cfmp4_sd_hd_clear%2Cwebm2_sd_hd_clear/spc/4ocVCyYqF2m8xDUP1DraKlpx1yab/vprv/1/pacing/0/keepalive/yes/fexp/24001373%2C24007246/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Cas%2Cspc%2Cvprv%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOWWDh_31pQ4sIA02SGQl6rf0Lqb2FHku_W-vNGD4HIKAiBKbFjemSbaTon1EqEcukNY1JCsm9Q7AxfEfRAcVSSIEA%3D%3D
-
 
 
 
