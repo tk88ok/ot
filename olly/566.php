@@ -866,7 +866,9 @@ J2,https://cdn.hklive.tv/raw/82.ts
 📽①①①①⇊,http://
 
 
+中天新闻,https://manifest.googlevideo.com/api/manifest/dash/expire/1654009540/ei/ZNqVYvr9FpvN2roPp_aEmA4/ip/103.242.143.250/id/_QbRXRnHMVY.1/source/yt_live_broadcast/requiressl/yes/tx/24197276/txs/24197275%2C24197276%2C24197277/as/fmp4_audio_clear%2Cwebm_audio_clear%2Cwebm2_audio_clear%2Cfmp4_sd_hd_clear%2Cwebm2_sd_hd_clear/spc/4ocVC5Yhb4DYQM1iWxP8cmRpqVXQ/vprv/1/pacing/0/keepalive/yes/fexp/24001373%2C24007246/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Cas%2Cspc%2Cvprv%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgFWRSHieySgyXyIWh-w9G-WC98naQG5U5FKCoc5xYMJQCIEpUJD9qNQqiecnLkeZxuCA0JwMidO_dknZUva4BKMhV
 
+中视新闻,https://manifest.googlevideo.com/api/manifest/dash/expire/1654012665/ei/meaVYpXyE-KqvcAP0tOD4AQ/ip/103.242.143.250/id/TCnaIE_SAtM.1/source/yt_live_broadcast/requiressl/yes/tx/24197276/txs/24197275%2C24197276%2C24197277/as/fmp4_audio_clear%2Cwebm_audio_clear%2Cwebm2_audio_clear%2Cfmp4_sd_hd_clear%2Cwebm2_sd_hd_clear/spc/4ocVCyYqF2m8xDUP1DraKlpx1yab/vprv/1/pacing/0/keepalive/yes/fexp/24001373%2C24007246/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Cas%2Cspc%2Cvprv%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOWWDh_31pQ4sIA02SGQl6rf0Lqb2FHku_W-vNGD4HIKAiBKbFjemSbaTon1EqEcukNY1JCsm9Q7AxfEfRAcVSSIEA%3D%3D
 
 
 
