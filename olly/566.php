@@ -670,6 +670,25 @@ CCTV17,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 
 🥂纯音乐,#genre#
 
+吉他-春光美,http://mpvideo.qpic.cn/0bc3ueab6aaa74ai6l4vxnrfbiodd6qqahya.f10003.mp4?dis_k=153724da23aef6e14971a981b0049688&dis_t=1654059098&vid=wxv_2422239410085085185&format_id=10003&support_redirect=0&mmversion=false
+吉他-惜别的海,http://mpvideo.qpic.cn/0b2eumaamaaa6iaobpug3nrfbi6da2rqabqa.f10003.mp4?dis_k=9645ce4d4dd8dbac7036dd9d9ae69714&dis_t=1654059942&vid=wxv_2406115883779014658&format_id=10003&support_redirect=0&mmversion=false
+
+
+
+天边,http://mpvideo.qpic.cn/0bc3cuacuaaajqajvazvinrfafodfikqakqa.f10003.mp4?dis_k=62a1858962c9cdbd2b2c5ab1f68f3f13&dis_t=1654060142&vid=wxv_2316823643819261955&format_id=10003&support_redirect=0&mmversion=false
+
+
+钢琴-女人花,http://mpvideo.qpic.cn/0b2erqaacaaa5yaic42n6frfbdgdaggaaaia.f10003.mp4?dis_k=bb241f38e03d5de1d2e7a1b3965d5c64&dis_t=1654060441&vid=wxv_2343005926641025026&format_id=10003&support_redirect=0&mmversion=false
+
+
+
+吉他-红尘情歌,http://mpvideo.qpic.cn/0bc3zyaawaaafqabztsef5rfbtwdbphaacya.f10003.mp4?dis_k=4616a622e873e1b3078450702154370a&dis_t=1654060626&vid=wxv_2332661491600375812&format_id=10003&support_redirect=0&mmversion=false
+
+
+
+吉他-红河谷,http://mpvideo.qpic.cn/0bc36yabiaaad4amytem6brfb5wdct3aafaa.f10003.mp4?dis_k=79651026c17bedd3c256bdb176ac0fb1&dis_t=1654060826&vid=wxv_2412655372563300353&format_id=10003&support_redirect=0&mmversion=false
+
+
 云河,https://vd2.bdstatic.com/mda-ne527r9ji5z78bgm/sc/cae_h264_delogo/1651802187318307385/mda-ne527r9ji5z78bgm.mp4
 梅花泪-古筝,https://vd3.bdstatic.com/mda-nahjrgi41pykbfhh/720p/h264_delogo/1642514505198206203/mda-nahjrgi41pykbfhh.mp4
 太极-古筝,https://vd4.bdstatic.com/mda-ne30qxfyze5zkmnp/360p/h264_delogo/1651624644762312084/mda-ne30qxfyze5zkmnp.mp4
