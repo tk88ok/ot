@@ -312,6 +312,9 @@ NewTV超级电视剧,http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
 
 
 🌎点播电影⇊,http://
+
+巨鳄风暴,https://s2.fsvod1.com/20220403/jQIZNURa/1200kb/hls/index.m3u8
+巨鳄风暴,https://s2.fsvod1.com/20220403/jQIZNURa/index.m3u8
 血拼大西洋,https://api.nxflv.com/Cache/SoHu/204e40d73847c5e555d3118ecaf94273.m3u8
 血拼大西洋,https://cdn2.bzjupinhang.com:65/20211221/4uXPPX3K/index.m3u8
 血拼大西洋,https://cdn2.bzjupinhang.com:65/20211221/4uXPPX3K/1739kb/hls/index.m3u8
