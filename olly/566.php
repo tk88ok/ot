@@ -869,7 +869,23 @@ J2,https://cdn.hklive.tv/raw/82.ts
 
 📽①①①①⇊,http://
 
+吉他-梦里水乡,https://vd2.bdstatic.com/mda-mkujuvgu6u1km7fs/1080p/cae_h264/1638208725488580589/mda-mkujuvgu6u1km7fs.mp4
 
+吉他-在深处,https://vd3.bdstatic.com/mda-kirz1yx9ufzu6ge0/v1-cae/1080p/mda-kirz1yx9ufzu6ge0.mp4
+
+吉他-阿尔罕布拉宫的回忆,https://vd2.bdstatic.com/mda-mkmb1u73xi4n0pej/1080p/cae_h264/1637567552972508852/mda-mkmb1u73xi4n0pej.mp4
+
+吉他-我心永恒,https://vd2.bdstatic.com/mda-kdqrianpfenz4nri/v1-cae/sc/mda-kdqrianpfenz4nri.mp4
+
+吉他-In My Blood,https://vd2.bdstatic.com/mda-ie0qtd1zhnhsavv3/sc/mda-ie0qtd1zhnhsavv3.mp4
+
+吉他-突然的自我,https://vd2.bdstatic.com/mda-kc8y189gkep1hkwk/v1-cae/sc/mda-kc8y189gkep1hkwk.mp4
+
+吉他爆改-杀死那个石家庄人,https://vd2.bdstatic.com/mda-mh83paayfm8e9mew/fhd/cae_h264_nowatermark/1628477119669080144/mda-mh83paayfm8e9mew.mp4
+
+吉他-Fantasie,https://vd3.bdstatic.com/mda-ia9nvs2wx3iw9xbe/sc/mda-ia9nvs2wx3iw9xbe.mp4
+
+吉他-My Heart Will Go On,https://vd2.bdstatic.com/mda-mm6zb7w1q64ufzsy/sc/cae_h264/1638923473522358588/mda-mm6zb7w1q64ufzsy.mp4
 
 
 
