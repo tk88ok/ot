@@ -184,9 +184,9 @@ CCTV6电影,http://117.148.179.136/PLTV/88888888/224/3221231724/1.m3u8
 CCTV6电影,http://111.63.117.13:6060/030000001000/CCTV-6/CCTV-6.m3u8?fmt=ts2hls
 CCTV6电影,http://111.63.117.13:6060/030000001000/CCTV-6/CCTV-6.m3u8?fmt=ts2hls
 
-好莱坞影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-好莱坞影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-好莱坞影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
+高清电影台,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+高清电影台,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
@@ -215,8 +215,6 @@ CCTV6电影,http://111.63.117.13:6060/030000001000/CCTV-6/CCTV-6.m3u8?fmt=ts2hls
 
 龙祥时代,http://120.84.96.33:808/hls/35/index.m3u8
 龙祥时代,http://gxfrg007.8800.org:8282/tsfile/live/1048_1.m3u8
-
-高清电影台,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 CCM,http://120.84.96.33:808/hls/85/index.m3u8
 CCM,http://120.84.96.32:808/hls/85/index.m3u8
@@ -250,6 +248,7 @@ CHC动作电影,http://111.20.41.248/dbiptv.sn.chinamobile.com/PLTV/88888888/224
 CHC动作电影,http://113.64.147.10:808/hls/34/index.m3u8
 CHC动作电影,http://120.84.96.33:808/hls/31/index.m3u8
 
+CHC高清电影,http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8
 CHC高清电影,http://39.134.19.252:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com,CHC高清电影
 
 CHC家庭影院,http://117.148.179.162/PLTV/88888888/224/3221231799/index.m3u8
