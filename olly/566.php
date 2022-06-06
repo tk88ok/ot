@@ -673,22 +673,24 @@ CCTV17,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 
 🥂纯音乐,#genre#
 
+美女这吉他演奏,https://vd4.bdstatic.com/mda-jfgi3qta7sza6ev7/sc/mda-jfgi3qta7sza6ev7.mp4
+平湖秋月-笛子,https://vd4.bdstatic.com/mda-ne5hexpbyume6p2a/720p/h264_delogo/1651839690591972034/mda-ne5hexpbyume6p2a.mp4
+太极-古筝,https://vd4.bdstatic.com/mda-ne30qxfyze5zkmnp/360p/h264_delogo/1651624644762312084/mda-ne30qxfyze5zkmnp.mp4
+梅花泪-古筝,https://vd3.bdstatic.com/mda-nahjrgi41pykbfhh/720p/h264_delogo/1642514505198206203/mda-nahjrgi41pykbfhh.mp4
+水边的阿狄丽娜,https://vd4.bdstatic.com/mda-ne30qsnr6g8rf7dj/360p/h264_delogo/1651624332572965474/mda-ne30qsnr6g8rf7dj.mp4
+暖雨,https://vd2.bdstatic.com/mda-nc3ix0zk6y3x7343/sc/cae_h264_delogo/1646400261730230569/mda-nc3ix0zk6y3x7343.mp4
+高山流水,https://vd4.bdstatic.com/mda-ncmahb9296iyqd1y/cae_h264_delogo/1647949622705411484/mda-ncmahb9296iyqd1y.mp4
+渔舟唱晚,https://vd2.bdstatic.com/mda-mkm42v963mek0tmq/hd/cae_h264/1637549935907348818/mda-mkm42v963mek0tmq.mp4
+黄种人-古筝,https://vd2.bdstatic.com/mda-ne5450rfawjiyxsw/sc/cae_h264_delogo/1651808068269670629/mda-ne5450rfawjiyxsw.mp4
 吉他-春光美,https://vd2.bdstatic.com/mda-mjtq70buzbtt1dir/sc/cae_h264/1635412177428534604/mda-mjtq70buzbtt1dir.mp4
 惜别的海,https://vd3.bdstatic.com/mda-nf1dnn4cwdqymrgf/1080p/cae_h264/1654168355173129594/mda-nf1dnn4cwdqymrgf.mp4
 电吹管演奏《天边》,https://vd2.bdstatic.com/mda-mmkai9bm3fb6y0y4/sc/cae_h264/1640043240417369303/mda-mmkai9bm3fb6y0y4.mp4
 钢琴-女人花,https://vd3.bdstatic.com/mda-ne3350dyrf5gsu78/sc/cae_h264_delogo/1651630643316767939/mda-ne3350dyrf5gsu78.mp4
 吉他-红尘情歌,https://vd4.bdstatic.com/mda-nc4i0dsa2nwaaswf/1080p/cae_h264_delogo/1646484579187797977/mda-nc4i0dsa2nwaaswf.mp4
 吉他-西游记主题曲,https://vd2.bdstatic.com/mda-jf8vvgn57ck17bha/sc/mda-jf8vvgn57ck17bha.mp4
-美女这吉他演奏,https://vd4.bdstatic.com/mda-jfgi3qta7sza6ev7/sc/mda-jfgi3qta7sza6ev7.mp4
 古典吉-十一月的某一天,https://vd3.bdstatic.com/mda-ik1wqqi7mp0day8s/sc/mda-ik1wqqi7mp0day8s.mp4
 云河,https://vd2.bdstatic.com/mda-ne527r9ji5z78bgm/sc/cae_h264_delogo/1651802187318307385/mda-ne527r9ji5z78bgm.mp4
-梅花泪-古筝,https://vd3.bdstatic.com/mda-nahjrgi41pykbfhh/720p/h264_delogo/1642514505198206203/mda-nahjrgi41pykbfhh.mp4
-太极-古筝,https://vd4.bdstatic.com/mda-ne30qxfyze5zkmnp/360p/h264_delogo/1651624644762312084/mda-ne30qxfyze5zkmnp.mp4
-水边的阿狄丽娜,https://vd4.bdstatic.com/mda-ne30qsnr6g8rf7dj/360p/h264_delogo/1651624332572965474/mda-ne30qsnr6g8rf7dj.mp4
 情人-古典吉他,https://vd3.bdstatic.com/mda-ne1htanzsepmg3c7/sc/cae_h264_delogo/1651494991477753876/mda-ne1htanzsepmg3c7.mp4
-暖雨,https://vd2.bdstatic.com/mda-nc3ix0zk6y3x7343/sc/cae_h264_delogo/1646400261730230569/mda-nc3ix0zk6y3x7343.mp4
-高山流水,https://vd4.bdstatic.com/mda-ncmahb9296iyqd1y/cae_h264_delogo/1647949622705411484/mda-ncmahb9296iyqd1y.mp4
-渔舟唱晚,https://vd2.bdstatic.com/mda-mkm42v963mek0tmq/hd/cae_h264/1637549935907348818/mda-mkm42v963mek0tmq.mp4
 平沙落雁-古琴,https://vd2.bdstatic.com/mda-naf92s8x95e0jkdk/sc/cae_h264_delogo/1642315687139027769/mda-naf92s8x95e0jkdk.mp4
 广陵散加长版-古琴,https://vd4.bdstatic.com/mda-mmt9rrusx2dg5iq7/sc/cae_h264/1640677082344672310/mda-mmt9rrusx2dg5iq7.mp4
 清晨,https://vd2.bdstatic.com/mda-na03sc018aq960tu/sc/cae_h264/1641080628754694801/mda-na03sc018aq960tu.mp4
@@ -697,12 +699,9 @@ Sea of Clarity,https://vd3.bdstatic.com/mda-nahpdfuk3ibkx73g/360p/h264_delogo/16
 我心永恒,https://vd2.bdstatic.com/mda-ndec1ja2wmdc1csr/sc/cae_h264_delogo/1650011894391233589/mda-ndec1ja2wmdc1csr.mp4
 Undeniable不可否认,https://vd4.bdstatic.com/mda-ne53ju3v6pa537mx/sc/cae_h264_delogo/1651805276869627414/mda-ne53ju3v6pa537mx.mp4
 站着等你三千年,https://vd4.bdstatic.com/mda-ne5dhkax41tnnx73/sc/cae_h264_delogo/1651833868493768963/mda-ne5dhkax41tnnx73.mp4
-黄种人-古筝,https://vd2.bdstatic.com/mda-ne5450rfawjiyxsw/sc/cae_h264_delogo/1651808068269670629/mda-ne5450rfawjiyxsw.mp4
 游子吟-二胡,https://vd4.bdstatic.com/mda-ne5bbz84bnj0zk7u/sc/cae_h264_delogo/1651826971732332575/mda-ne5bbz84bnj0zk7u.mp4
-平湖秋月-笛子,https://vd4.bdstatic.com/mda-ne5hexpbyume6p2a/720p/h264_delogo/1651839690591972034/mda-ne5hexpbyume6p2a.mp4
 夜曲,https://vd3.bdstatic.com/mda-natdtsevh21nmn7r/sc/cae_h264_delogo/1643410847111413842/mda-natdtsevh21nmn7r.mp4
 晚霞,https://vd2.bdstatic.com/mda-mm8kb59w85f5ai65/sc/cae_h264_delogo/1642488132317758499/mda-mm8kb59w85f5ai65.mp4
-
 
 
 
