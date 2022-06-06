@@ -181,9 +181,9 @@ CCTV6电影,http://117.148.179.136/PLTV/88888888/224/3221231724/1.m3u8
 CCTV6电影,http://111.63.117.13:6060/030000001000/CCTV-6/CCTV-6.m3u8?fmt=ts2hls
 CCTV6电影,http://111.63.117.13:6060/030000001000/CCTV-6/CCTV-6.m3u8?fmt=ts2hls
 
-好莱坞电影台(好莱坞影院),http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-好莱坞电影台(好莱坞影院),http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-好莱坞电影台(好莱坞影院),http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+好莱坞影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+好莱坞影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+好莱坞影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
