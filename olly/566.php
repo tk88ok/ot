@@ -202,7 +202,7 @@ CCTV6电影,http://111.63.117.13:6060/030000001000/CCTV-6/CCTV-6.m3u8?fmt=ts2hls
 
 东森电影,http://120.84.96.33:808/hls/32/index.m3u8
 东森电影,http://120.84.96.32:808/hls/32/index.m3u8
-东森电影台,http://gxfrg007.8800.org:8282/tsfile/live/1049_1.m3u8
+东森电影,http://gxfrg007.8800.org:8282/tsfile/live/1049_1.m3u8
 
 东森洋片,http://120.84.96.32:808/hls/33/index.m3u8
 东森洋片,http://120.84.96.33:808/hls/33/index.m3u8
