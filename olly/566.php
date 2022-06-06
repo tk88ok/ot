@@ -674,6 +674,46 @@ CCTV17,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 🥂纯音乐,#genre#
 
 美女这吉他演奏,https://vd4.bdstatic.com/mda-jfgi3qta7sza6ev7/sc/mda-jfgi3qta7sza6ev7.mp4
+吉他-我心永恒,https://vd2.bdstatic.com/mda-kgun6xcetg7c24y2/v1-cae/1080p/mda-kgun6xcetg7c24y2.mp4
+吉他-加州旅馆,https://vd3.bdstatic.com/mda-mknw5xnecu60ipvp/sc/cae_h264_delogo/1642530883927545401/mda-mknw5xnecu60ipvp.mp4
+吉他-葬花吟,https://vd3.bdstatic.com/mda-naibekt5ca8kdx0z/1080p/cae_h264_delogo/1642986111792592754/mda-naibekt5ca8kdx0z.mp4
+吉他-葬花吟1,https://vd2.bdstatic.com/mda-imgf1xsbeyzdd5mt/sc/mda-imgf1xsbeyzdd5mt.mp4
+吉他-小路,https://vd2.bdstatic.com/mda-nei7rknguezfzh1f/1080p/cae_h264/1652938819712204544/mda-nei7rknguezfzh1f.mp4
+吉他-柳濑小镇,https://vd4.bdstatic.com/mda-ib02ydawwmkwi03a/hd/mda-ib02ydawwmkwi03a.mp4
+吉他-寂静之声,https://vd3.bdstatic.com/mda-mmihis1szs64gyzk/1080p/cae_h264/1640000766784193010/mda-mmihis1szs64gyzk.mp4
+吉他-秋恋,https://vd2.bdstatic.com/mda-nchb37j8q3ps3zs1/1080p/cae_h264_delogo/1647596809775119366/mda-nchb37j8q3ps3zs1.mp4
+吉他-三月里的小雨,https://vd2.bdstatic.com/mda-ned4xpxr7ebmwvej/1080p/cae_h264/1652506544432670551/mda-ned4xpxr7ebmwvej.mp4
+吉他-斯卡布罗集市,https://vd3.bdstatic.com/mda-nanef3wugt445py1/sc/cae_h264_delogo/1642933360114129298/mda-nanef3wugt445py1.mp4
+吉他-卡萨布兰卡,https://vd4.bdstatic.com/mda-navbrdzkn6e24mag/sc/cae_h264_delogo/1643530939463648380/mda-navbrdzkn6e24mag.mp4
+电吉他-Enter Sandman,https://vd2.bdstatic.com/mda-jcmj9pt3ahit9rqn/sc/mda-jcmj9pt3ahit9rqn.mp4
+吉他-Passage to Paradise 通往天堂的路,https://vd3.bdstatic.com/mda-nbbkc5i80249gtea/1080p/cae_h264_delogo/1644678109081249767/mda-nbbkc5i80249gtea.mp4
+吉他-送亲,https://vd2.bdstatic.com/mda-neeaq5b09uf7jpxy/1080p/cae_h264/1652600867276126527/mda-neeaq5b09uf7jpxy.mp4
+吉他-女儿情,https://vd3.bdstatic.com/mda-ndckxswivvkeaev5/1080p/cae_h264_delogo/1649890962409427271/mda-ndckxswivvkeaev5.mp4
+吉他-朋友别哭,https://vd4.bdstatic.com/mda-na4hjj1yrq26g5jb/fhd/cae_h264_nowatermark/1641409140028834713/mda-na4hjj1yrq26g5jb.mp4
+吉他-蓝莲花,https://vd4.bdstatic.com/mda-nce5df5u8v5s2zr2/1080p/cae_h264_delogo/1647316401837797711/mda-nce5df5u8v5s2zr2.mp4
+吉他-你到底爱谁,https://vd4.bdstatic.com/mda-nc4jxm69sgkc4yz6/1080p/cae_h264_delogo/1646489690833623646/mda-nc4jxm69sgkc4yz6.mp4
+吉他-别知己,https://vd4.bdstatic.com/mda-ncncv6djzmc0xu7s/1080p/cae_h264_delogo/1648080223974990204/mda-ncncv6djzmc0xu7s.mp4
+吉他-西海情歌,https://vd2.bdstatic.com/mda-na390v5301pgwfmk/1080p/cae_h264_delogo/1643302805031355375/mda-na390v5301pgwfmk.mp4
+吉他-雨中华尔兹,https://vd4.bdstatic.com/mda-md5mbigz1p3sy4sj/fhd/cae_h264_nowatermark/1617720217/mda-md5mbigz1p3sy4sj.mp4
+吉他-千千阙歌,https://vd2.bdstatic.com/mda-kdrfaayav7qtbh64/v1-cae/sc/mda-kdrfaayav7qtbh64.mp4
+吉他-神话,https://vd2.bdstatic.com/mda-jfjdbsgxbm27z4aa/sc/mda-jfjdbsgxbm27z4aa.mp4
+吉他-一帘幽梦,https://vd2.bdstatic.com/mda-nev2urcg3gx4hicq/1080p/cae_h264/1653880324579122796/mda-nev2urcg3gx4hicq.mp4
+吉他-又见炊烟,https://vd4.bdstatic.com/mda-nb99qzjmbhxpp0hb/1080p/cae_h264_delogo/1644476292342259497/mda-nb99qzjmbhxpp0hb.mp4
+吉他-挚爱,https://vd2.bdstatic.com/mda-nb6ig17bgijg1tk5/fhd/cae_h264_nowatermark_delogo/1644239364238855073/mda-nb6ig17bgijg1tk5.mp4
+吉他-丁香花,https://vd2.bdstatic.com/mda-nc12fwc4kxxaqx3d/1080p/cae_h264_delogo/1646185996339473380/mda-nc12fwc4kxxaqx3d.mp4
+吉他-感谢你,https://vd3.bdstatic.com/mda-nf56mgwq76jha3ti/720p/h264/1654490792368738134/mda-nf56mgwq76jha3ti.mp4
+吉他-追梦人,https://vd3.bdstatic.com/mda-ncpbrgwypqhp6ma9/1080p/cae_h264_delogo/1648110769960412083/mda-ncpbrgwypqhp6ma9.mp4
+吉他-搁浅的心,https://vd4.bdstatic.com/mda-new6k095suh8qvcg/720p/h264/1653971948919247912/mda-new6k095suh8qvcg.mp4
+吉他-爱江山更爱美人,https://vd4.bdstatic.com/mda-nanmr3qdew2utgt6/fhd/cae_h264_nowatermark_delogo/1642951589299167928/mda-nanmr3qdew2utgt6.mp4
+吉他-Let Her Go（随她去）,https://vd2.bdstatic.com/mda-kj2jg2da5yc307s4/sc/mda-kj2jg2da5yc307s4.mp4
+吉他-梦里水乡,https://vd2.bdstatic.com/mda-mkujuvgu6u1km7fs/1080p/cae_h264/1638208725488580589/mda-mkujuvgu6u1km7fs.mp4
+吉他-在深处,https://vd3.bdstatic.com/mda-kirz1yx9ufzu6ge0/v1-cae/1080p/mda-kirz1yx9ufzu6ge0.mp4
+吉他-My Heart Will Go On,https://vd2.bdstatic.com/mda-mm6zb7w1q64ufzsy/sc/cae_h264/1638923473522358588/mda-mm6zb7w1q64ufzsy.mp4
+吉他-In My Blood,https://vd2.bdstatic.com/mda-ie0qtd1zhnhsavv3/sc/mda-ie0qtd1zhnhsavv3.mp4
+吉他-Fantasie,https://vd3.bdstatic.com/mda-ia9nvs2wx3iw9xbe/sc/mda-ia9nvs2wx3iw9xbe.mp4
+吉他纯音乐40分钟,https://vd2.bdstatic.com/mda-mk353ergy5b2aqng/1080p/cae_h264/1636164173193819365/mda-mk353ergy5b2aqng.mp4
+吉他-纯音乐60分钟,https://vd2.bdstatic.com/mda-mjthnyg58kzd6acx/1080p/cae_h264/1635427436244653062/mda-mjthnyg58kzd6acx.mp4
+吉他精选串烧1,https://vd4.bdstatic.com/mda-jipefq3cqn890wtq/mda-jipefq3cqn890wtq.mp4
 平湖秋月-笛子,https://vd4.bdstatic.com/mda-ne5hexpbyume6p2a/720p/h264_delogo/1651839690591972034/mda-ne5hexpbyume6p2a.mp4
 太极-古筝,https://vd4.bdstatic.com/mda-ne30qxfyze5zkmnp/360p/h264_delogo/1651624644762312084/mda-ne30qxfyze5zkmnp.mp4
 梅花泪-古筝,https://vd3.bdstatic.com/mda-nahjrgi41pykbfhh/720p/h264_delogo/1642514505198206203/mda-nahjrgi41pykbfhh.mp4
@@ -702,11 +742,7 @@ Undeniable不可否认,https://vd4.bdstatic.com/mda-ne53ju3v6pa537mx/sc/cae_h264
 游子吟-二胡,https://vd4.bdstatic.com/mda-ne5bbz84bnj0zk7u/sc/cae_h264_delogo/1651826971732332575/mda-ne5bbz84bnj0zk7u.mp4
 夜曲,https://vd3.bdstatic.com/mda-natdtsevh21nmn7r/sc/cae_h264_delogo/1643410847111413842/mda-natdtsevh21nmn7r.mp4
 晚霞,https://vd2.bdstatic.com/mda-mm8kb59w85f5ai65/sc/cae_h264_delogo/1642488132317758499/mda-mm8kb59w85f5ai65.mp4
-吉他-梦里水乡,https://vd2.bdstatic.com/mda-mkujuvgu6u1km7fs/1080p/cae_h264/1638208725488580589/mda-mkujuvgu6u1km7fs.mp4
-吉他-在深处,https://vd3.bdstatic.com/mda-kirz1yx9ufzu6ge0/v1-cae/1080p/mda-kirz1yx9ufzu6ge0.mp4
-吉他-My Heart Will Go On,https://vd2.bdstatic.com/mda-mm6zb7w1q64ufzsy/sc/cae_h264/1638923473522358588/mda-mm6zb7w1q64ufzsy.mp4
-吉他-In My Blood,https://vd2.bdstatic.com/mda-ie0qtd1zhnhsavv3/sc/mda-ie0qtd1zhnhsavv3.mp4
-吉他-Fantasie,https://vd3.bdstatic.com/mda-ia9nvs2wx3iw9xbe/sc/mda-ia9nvs2wx3iw9xbe.mp4
+
 
 
 
@@ -875,55 +911,6 @@ J2,https://cdn.hklive.tv/raw/82.ts
 
 
 
-吉他-彩云追月,https://vd3.bdstatic.com/mda-neceey1kzfxqibn2/1080p/cae_h264/1652439718710646011/mda-neceey1kzfxqibn2.mp4
-吉他-我心永恒,https://vd2.bdstatic.com/mda-kgun6xcetg7c24y2/v1-cae/1080p/mda-kgun6xcetg7c24y2.mp4
-吉他-别知己,https://vd4.bdstatic.com/mda-ncncv6djzmc0xu7s/1080p/cae_h264_delogo/1648080223974990204/mda-ncncv6djzmc0xu7s.mp4
-吉他-别知己2,https://vd2.bdstatic.com/mda-ncrk2i27j1ag0h9v/1080p/cae_h264_delogo/1648305148890983580/mda-ncrk2i27j1ag0h9v.mp4
-吉他-启程,https://vd4.bdstatic.com/mda-ncea9h9xvz7tag5q/1080p/cae_h264_delogo/1647329037108503629/mda-ncea9h9xvz7tag5q.mp4
-吉他-西海情歌,https://vd2.bdstatic.com/mda-na390v5301pgwfmk/1080p/cae_h264_delogo/1643302805031355375/mda-na390v5301pgwfmk.mp4
-吉他-葬花吟,https://vd2.bdstatic.com/mda-nc7acnkw9a7yt2re/1080p/cae_h264_delogo/1646724824936170165/mda-nc7acnkw9a7yt2re.mp4
-吉他-多年以后,https://vd3.bdstatic.com/mda-neuznaijmk013xb5/1080p/cae_h264/1653868139561920831/mda-neuznaijmk013xb5.mp4
-吉他-雨中华尔兹,https://vd4.bdstatic.com/mda-md5mbigz1p3sy4sj/fhd/cae_h264_nowatermark/1617720217/mda-md5mbigz1p3sy4sj.mp4
-吉他-千千阙歌,https://vd2.bdstatic.com/mda-kdrfaayav7qtbh64/v1-cae/sc/mda-kdrfaayav7qtbh64.mp4
-吉他-小路,https://vd2.bdstatic.com/mda-nei7rknguezfzh1f/1080p/cae_h264/1652938819712204544/mda-nei7rknguezfzh1f.mp4
-吉他-小路1,https://vd2.bdstatic.com/mda-nei7rknguezfzh1f/1080p/cae_h264/1652938819712204544/mda-nei7rknguezfzh1f.mp4
-吉他-神话,https://vd2.bdstatic.com/mda-jfjdbsgxbm27z4aa/sc/mda-jfjdbsgxbm27z4aa.mp4
-吉他-滴答,https://vd2.bdstatic.com/mda-na71s513d12wp4de/360p/h264_delogo/1641604557002024065/mda-na71s513d12wp4de.mp4
-吉他-风之诗,https://vd4.bdstatic.com/mda-mcw3c24f4wn845ac/fhd/cae_h264_nowatermark/1617159082/mda-mcw3c24f4wn845ac.mp4
-吉他-你不是真正的快乐,https://vd2.bdstatic.com/mda-khiwjqdhzx8wdfyn/sc/cae_h264_nowatermark/mda-khiwjqdhzx8wdfyn.mp4
-吉他-一帘幽梦,https://vd2.bdstatic.com/mda-nev2urcg3gx4hicq/1080p/cae_h264/1653880324579122796/mda-nev2urcg3gx4hicq.mp4
-吉他-寂静之声,https://vd3.bdstatic.com/mda-mmihis1szs64gyzk/1080p/cae_h264/1640000766784193010/mda-mmihis1szs64gyzk.mp4
-吉他-Sounds of Silence,https://vd4.bdstatic.com/mda-nc7nhvq7nd96zrsp/1080p/cae_h264_delogo/1646757911044365923/mda-nc7nhvq7nd96zrsp.mp4
-吉他-秋恋,https://vd2.bdstatic.com/mda-nchb37j8q3ps3zs1/1080p/cae_h264_delogo/1647596809775119366/mda-nchb37j8q3ps3zs1.mp4
-吉他-三月里的小雨,https://vd2.bdstatic.com/mda-ned4xpxr7ebmwvej/1080p/cae_h264/1652506544432670551/mda-ned4xpxr7ebmwvej.mp4
-吉他-挚爱,https://vd2.bdstatic.com/mda-nb6ig17bgijg1tk5/fhd/cae_h264_nowatermark_delogo/1644239364238855073/mda-nb6ig17bgijg1tk5.mp4
-吉他版-丁香花,https://vd2.bdstatic.com/mda-nd3eu2670ykqi3ec/sc/cae_h264_delogo/1649068701409483320/mda-nd3eu2670ykqi3ec.mp4
-吉他-丁香花,https://vd2.bdstatic.com/mda-nc12fwc4kxxaqx3d/1080p/cae_h264_delogo/1646185996339473380/mda-nc12fwc4kxxaqx3d.mp4
-吉他-加州旅馆,https://vd3.bdstatic.com/mda-mknw5xnecu60ipvp/sc/cae_h264_delogo/1642530883927545401/mda-mknw5xnecu60ipvp.mp4
-吉他-卡萨布兰卡,https://vd4.bdstatic.com/mda-navbrdzkn6e24mag/sc/cae_h264_delogo/1643530939463648380/mda-navbrdzkn6e24mag.mp4
-吉他-感谢你,https://vd3.bdstatic.com/mda-nf56mgwq76jha3ti/720p/h264/1654490792368738134/mda-nf56mgwq76jha3ti.mp4
-电吉他-Enter Sandman,https://vd2.bdstatic.com/mda-jcmj9pt3ahit9rqn/sc/mda-jcmj9pt3ahit9rqn.mp4
-吉他-你到底爱谁,https://vd4.bdstatic.com/mda-nc4jxm69sgkc4yz6/1080p/cae_h264_delogo/1646489690833623646/mda-nc4jxm69sgkc4yz6.mp4
-吉他-追梦人,https://vd3.bdstatic.com/mda-ncpbrgwypqhp6ma9/1080p/cae_h264_delogo/1648110769960412083/mda-ncpbrgwypqhp6ma9.mp4
-吉他-眼泪的错觉,https://vd2.bdstatic.com/mda-mhcfu2trqymqr6fv/1080p/cae_h264/1628853228750119395/mda-mhcfu2trqymqr6fv.mp4
-吉他-又见炊烟,https://vd4.bdstatic.com/mda-nb99qzjmbhxpp0hb/1080p/cae_h264_delogo/1644476292342259497/mda-nb99qzjmbhxpp0hb.mp4
-吉他-搁浅的心,https://vd4.bdstatic.com/mda-new6k095suh8qvcg/720p/h264/1653971948919247912/mda-new6k095suh8qvcg.mp4
-吉他-爱江山更爱美人,https://vd4.bdstatic.com/mda-nanmr3qdew2utgt6/fhd/cae_h264_nowatermark_delogo/1642951589299167928/mda-nanmr3qdew2utgt6.mp4
-吉他-朋友别哭,https://vd4.bdstatic.com/mda-na4hjj1yrq26g5jb/fhd/cae_h264_nowatermark/1641409140028834713/mda-na4hjj1yrq26g5jb.mp4
-吉他-送亲,https://vd2.bdstatic.com/mda-neeaq5b09uf7jpxy/1080p/cae_h264/1652600867276126527/mda-neeaq5b09uf7jpxy.mp4
-吉他-女儿情,https://vd3.bdstatic.com/mda-ndckxswivvkeaev5/1080p/cae_h264_delogo/1649890962409427271/mda-ndckxswivvkeaev5.mp4
-吉他-Let Her Go（随她去）,https://vd2.bdstatic.com/mda-kj2jg2da5yc307s4/sc/mda-kj2jg2da5yc307s4.mp4
-吉他声伴睡眠,https://vd2.bdstatic.com/mda-ma1vpg0sd6zva0i5/v1-cae/1080p/mda-ma1vpg0sd6zva0i5.mp4
-吉他-蓝莲花,https://vd4.bdstatic.com/mda-nce5df5u8v5s2zr2/1080p/cae_h264_delogo/1647316401837797711/mda-nce5df5u8v5s2zr2.mp4
-吉他-柳濑小镇,https://vd4.bdstatic.com/mda-ib02ydawwmkwi03a/hd/mda-ib02ydawwmkwi03a.mp4
-吉他-又见炊烟,https://vd3.bdstatic.com/mda-mm20wrq3bnz8stkz/1080p/cae_h264/1638518165090765535/mda-mm20wrq3bnz8stkz.mp4
-吉他-斯卡布罗集市,https://vd3.bdstatic.com/mda-nanef3wugt445py1/sc/cae_h264_delogo/1642933360114129298/mda-nanef3wugt445py1.mp4
-吉他-Passage to Paradise 通往天堂的路,https://vd3.bdstatic.com/mda-nbbkc5i80249gtea/1080p/cae_h264_delogo/1644678109081249767/mda-nbbkc5i80249gtea.mp4
-吉他马头琴合奏-乌兰巴托之夜,https://vd4.bdstatic.com/mda-nabi2fyq4kg7qs8w/sc/cae_h264_delogo/1641992682067287267/mda-nabi2fyq4kg7qs8w.mp4
-
-吉他纯音乐40分钟,https://vd2.bdstatic.com/mda-mk353ergy5b2aqng/1080p/cae_h264/1636164173193819365/mda-mk353ergy5b2aqng.mp4
-吉他-纯音乐60分钟,https://vd2.bdstatic.com/mda-mjthnyg58kzd6acx/1080p/cae_h264/1635427436244653062/mda-mjthnyg58kzd6acx.mp4
-吉他精选串烧1,https://vd4.bdstatic.com/mda-jipefq3cqn890wtq/mda-jipefq3cqn890wtq.mp4
 
 
 
