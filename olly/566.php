@@ -673,6 +673,14 @@ CCTV17,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 
 🥂纯音乐,#genre#
 
+吉他-春光美,https://vd2.bdstatic.com/mda-mjtq70buzbtt1dir/sc/cae_h264/1635412177428534604/mda-mjtq70buzbtt1dir.mp4
+惜别的海,https://vd3.bdstatic.com/mda-nf1dnn4cwdqymrgf/1080p/cae_h264/1654168355173129594/mda-nf1dnn4cwdqymrgf.mp4
+电吹管演奏《天边》,https://vd2.bdstatic.com/mda-mmkai9bm3fb6y0y4/sc/cae_h264/1640043240417369303/mda-mmkai9bm3fb6y0y4.mp4
+钢琴-女人花,https://vd3.bdstatic.com/mda-ne3350dyrf5gsu78/sc/cae_h264_delogo/1651630643316767939/mda-ne3350dyrf5gsu78.mp4
+吉他-红尘情歌,https://vd4.bdstatic.com/mda-nc4i0dsa2nwaaswf/1080p/cae_h264_delogo/1646484579187797977/mda-nc4i0dsa2nwaaswf.mp4
+吉他-西游记主题曲,https://vd2.bdstatic.com/mda-jf8vvgn57ck17bha/sc/mda-jf8vvgn57ck17bha.mp4
+美女这吉他演奏,https://vd4.bdstatic.com/mda-jfgi3qta7sza6ev7/sc/mda-jfgi3qta7sza6ev7.mp4
+古典吉-十一月的某一天,https://vd3.bdstatic.com/mda-ik1wqqi7mp0day8s/sc/mda-ik1wqqi7mp0day8s.mp4
 云河,https://vd2.bdstatic.com/mda-ne527r9ji5z78bgm/sc/cae_h264_delogo/1651802187318307385/mda-ne527r9ji5z78bgm.mp4
 梅花泪-古筝,https://vd3.bdstatic.com/mda-nahjrgi41pykbfhh/720p/h264_delogo/1642514505198206203/mda-nahjrgi41pykbfhh.mp4
 太极-古筝,https://vd4.bdstatic.com/mda-ne30qxfyze5zkmnp/360p/h264_delogo/1651624644762312084/mda-ne30qxfyze5zkmnp.mp4
@@ -861,6 +869,13 @@ J2,https://cdn.hklive.tv/raw/82.ts
 无线财经资讯,https://cdn.hklive.tv/raw/85.ts
 
 📽①①①①⇊,http://
+
+
+
+
+
+
+
 
 
 
