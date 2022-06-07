@@ -210,7 +210,7 @@ LS Time(龙祥时代),http://120.84.96.29:808/hls/35/index.m3u8
 
 
 CCM,http://120.84.96.33:808/hls/85/index.m3u8
-CCM,http://120.84.96.32:808/hls/85/index.m3u8
+天影娱乐(CCM),http://120.84.96.32:808/hls/85/index.m3u8
 
 TVB剧场(MIGU),http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
 
