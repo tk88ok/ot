@@ -14,6 +14,7 @@
 明珠台,http://qwas.eatuo.com:9901/tsfile/live/1014_1.m3u8
 明珠台,http://radius.8866.org:880/hls/84/index.m3u8
 
+开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
 J2,http://120.84.96.32:808/hls/86/index.m3u8
@@ -80,7 +81,8 @@ J2,http://119.29.145.154:9999/hh.php?tid=gt&id=12
 广州影视,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzys
 
 
-
+NewTV超级综艺,http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8
+NewTV金牌综艺,http://39.134.66.66/PLTV/88888888/224/3221225525/index.m3u8
 
 大愛,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大愛,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
@@ -99,12 +101,18 @@ J2,http://119.29.145.154:9999/hh.php?tid=gt&id=12
 好消息综合台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8?$全网高清720P
 好消息综合台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 
+民视,rtmp://59.124.75.138/sat/tv051
+民视,rtmp://59.124.75.138:1935/sat/tv051
+台视,rtmp://59.124.75.138/sat/tv071
+台视,rtmp://59.124.75.138:1935/sat/tv071
 中视,rtmp://59.124.75.138/sat/tv091
 中视,rtmp://59.124.75.138:1935/sat/tv091
 华视,rtmp://59.124.75.138/sat/tv111
 华视,rtmp://59.124.75.138:1935/sat/tv111
-民视,rtmp://59.124.75.138/sat/tv051
-民视,rtmp://59.124.75.138:1935/sat/tv051
+东森超视,rtmp://59.124.75.138/sat/tv331
+东森超视,rtmp://59.124.75.138:1935/sat/tv331
+TVBS欢乐台,rtmp://59.124.75.138/sat/tv421
+TVBS欢乐台,rtmp://59.124.75.138:1935/sat/tv421
 
 搞笑短片,https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 李子柒电视,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
@@ -158,6 +166,9 @@ TVBS新闻台,rtmp://59.124.75.138/sat/tv551
 TVBS新闻台,rtmp://59.124.75.138:1935/sat/tv551
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 
+壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
+壹新聞,http://stream.nexttv.com.tw/n001/playlist.m3u8
+
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,p5p://fccs.123178.top:9906/61494a92000be20d0d642b3f9739874e
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
@@ -183,6 +194,7 @@ CCTV6电影,http://111.63.117.13:6060/030000001000/CCTV-6/CCTV-6.m3u8?fmt=ts2hls
 
 澳门莲花,http://epg.112114.xyz/lotus
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
+澳门莲花,http://nettvpro.live/hls/lotustv.php
 澳门莲花,http://120.84.96.33:808/hls/24/index.m3u8
 澳门莲花,http://120.84.96.29:808/hls/24/index.m3u8
 澳门莲花,http://120.84.96.30:808/hls/24/index.m3u8
@@ -254,6 +266,10 @@ NewTV超级电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225766/index.
 NewTV超级电影,http://39.134.65.164/PLTV/88888888/224/3221225644/1.m3u8
 NewTV超级电影,http://39.134.65.164/PLTV/88888888/224/3221225644/1.m3u8
 
+
+NewTV中国功夫,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
+
+NewTV爱情喜剧,http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
 
 LS Time(龙祥时代),http://120.84.96.33:808/hls/35/index.m3u8
 LS Time(龙祥时代),http://gxfrg007.8800.org:8282/tsfile/live/1048_1.m3u8
@@ -447,6 +463,7 @@ BesTV百视通,http://cord.tvxio.bestv.com.cn/v1_0/k91/0g0/api/live/m3u8/9/f7b8e
 虎-中国新相亲,http://txtest-xp2p.p2p.huya.com/src/1449574865-1449574865-6225876638278615040-2847699130-10057-A-0-1.xs$房间号11352947
 虎-香港贺岁片,http://txtest-xp2p.p2p.huya.com/src/1449581589-1449581589-6225905517638713344-3048959636-10057-A-0-1.xs$房间号11601971
 虎-杰森·斯坦森,http://txtest-xp2p.p2p.huya.com/src/1099531752779-1099531752779-86436229716901888-2199063629014-10057-A-0-1.xs$房间号21059588
+虎-杰森·斯坦森,http://hy.tushepy.com/pls/huya.php?id=21059588&token=b3adbe6bddd60d88a76d35b4b3f289e8
 虎-大场面战争片,http://txtest-xp2p.p2p.huya.com/src/1099531752768-1099531752768-86436182472261632-2199063628992-10057-A-0-1.xs$房间号21059574
 虎-特种部队出发,http://txtest-xp2p.p2p.huya.com/src/1099531752783-1099531752783-86436246896771072-2199063629022-10057-A-0-1.xs$房间号21059592
 虎-两个光头赛车的故事,http://txtest-xp2p.p2p.huya.com/src/1099531752751-1099531752751-86436109457817600-2199063628958-10057-A-0-1.xs$房间号21059556
@@ -815,6 +832,10 @@ Undeniable不可否认,https://vd4.bdstatic.com/mda-ne53ju3v6pa537mx/sc/cae_h264
 
 🛰️音乐MTV,#genre#
 
+可可托海的牧羊人-送亲-站着等你三千年-有,https://vdse.bdstatic.com//7cb310d32d15912afadd19d15be7039b.mp4
+天路驼铃鸿雁九儿绒花小芳,https://vdse.bdstatic.com//e4b7325ebf3010673a51a24f948a8a97.mp4
+驼铃卓玛天边鸿雁天路,https://vdse.bdstatic.com//f8f4740a4ca7ff31c3a2d8386fc14598.mp4
+云朵刀郎孙露张雨生,https://vdse.bdstatic.com//fa0ed7ad8657cc4d13972c3d9aa5ddbf.mp4
 红颜知己-安静,https://vd2.bdstatic.com/mda-mg5esncbdz9htbkd/sc/cae_h264/1625567895973935460/mda-mg5esncbdz9htbkd.mp4
 忘了吧,https://vd2.bdstatic.com/mda-ne55i62wd84kbjhh/sc/cae_h264_delogo/1651811849482629128/mda-ne55i62wd84kbjhh.mp4
 再也不是你,https://vd2.bdstatic.com/mda-ndm7eadparxakp7s/sc/cae_h264_delogo/1650605563333663454/mda-ndm7eadparxakp7s.mp4
@@ -960,6 +981,9 @@ DJ情歌6首,https://vdse.bdstatic.com//c9e449d2db0a3fa5f6a8afafbc43fbdc.mp4
 
 
 测试1,#genre#
+
+
+
 
 
 
