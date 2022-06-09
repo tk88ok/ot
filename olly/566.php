@@ -8,18 +8,17 @@
 翡翠台,mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f
 翡翠台,http://liuy.usa7.20212021.ga/ns.php?id=78
 
+翡翠台(备),http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/01
 翡翠台(备),http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/1
 翡翠台(备),http://andychuxdd.asuscomm.com:9981/stream/channelid/89897661?ticket=76ba9906d167ebcfdbbc722e620112da29f6d893&profile=pass
 
+明珠台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/02
 明珠台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/2
 明珠台,http://120.84.96.25:808/hls/26/index.m3u8
 明珠台,http://120.84.96.33:808/hls/26/index.m3u8
 明珠台,http://120.84.96.32:808/hls/26/index.m3u8
 明珠台,http://qwas.eatuo.com:9901/tsfile/live/1014_1.m3u8
 明珠台,http://radius.8866.org:880/hls/84/index.m3u8
-
-开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
-开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
 J2,http://120.84.96.32:808/hls/86/index.m3u8
 J2,http://120.84.96.33:808/hls/86/index.m3u8
@@ -38,6 +37,16 @@ J2,http://120.84.96.33:808/hls/86/index.m3u8
 J2,https://h.youtalk.top/hkj2b/49.m3u8
 J2,http://120.84.96.29:808/hls/86/index.m3u8
 J2,http://119.29.145.154:9999/hh.php?tid=gt&id=12
+
+开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
+开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+
+星河台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/28
+
+爆谷台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/26
+爆谷台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/14
+
+千禧经典台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/27
 
 珠江台,http://iptv.eatuo.com:9901/tsfile/live/1001_1.m3u8
 珠江台,http://39.135.32.6:6610/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&IASHttpSessionId=OTT
@@ -91,6 +100,11 @@ NewTV金牌综艺,http://39.134.66.66/PLTV/88888888/224/3221225525/index.m3u8
 大愛,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大愛,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
+澳门资讯,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/20
+澳门澳门,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/19
+澳门Macau,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/22
+澳门Macau,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/24
+
 澳视卫星,http://103.233.191.132:1935/ch3/ch3.live/playlist.m3u8
 澳视卫星,http://103.233.191.133:1935/ch3/ch3.live/playlist.m3u8
 
@@ -99,7 +113,7 @@ NewTV金牌综艺,http://39.134.66.66/PLTV/88888888/224/3221225525/index.m3u8
 澳视澳门,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
 
 澳视综艺,http://103.233.191.133:1935/ch6/hd_ch6.live/playlist.m3u8
-澳视MACAU,http://61.244.22.4/ch3/ch3.live/index.m3u8
+澳视Macau,http://61.244.22.4/ch3/ch3.live/index.m3u8
 
 
 好消息综合台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8?$全网高清720P
@@ -152,8 +166,8 @@ CCTV4美州,http://117.148.179.162/PLTV/88888888/224/3221231654/index.m3u8
 
 CCTV13新闻,http://117.148.179.162/PLTV/88888888/224/3221231636/index.m3u8
 
+无线新闻,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/03
 无线新闻,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/3
-有线新闻,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/4
 
 无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
 无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
@@ -165,6 +179,11 @@ CCTV13新闻,http://117.148.179.162/PLTV/88888888/224/3221231636/index.m3u8
 无线新闻,http://ye23.win:80/iptv/tvb.php?id=5
 无线新闻,http://radius.8866.org:880/hls/82/index.m3u8
 
+有线新闻,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/04
+有线新闻,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/4
+
+NOW新闻,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/05
+NOW新闻,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/5
 
 澳视资讯,http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
 澳视资讯,http://103.233.191.133:1935/ch5/info_ch5.live/playlist.m3u8
