@@ -1,5 +1,6 @@
 🌎综合,#genre#,http://diyp.112114.xyz/
-🛰️注意->,https://vd3.bdstatic.com/mda-nf8ka3zqviucds0t/720p/h264/1654784642340564810/mda-nf8ka3zqviucds0t.mp4
+🛰️注意->,https://gh.api.99988866.xyz/https://raw.githubusercontent.com/tk88ok/ot/main/olly/tvok.mp4
+
 
 翡翠台,mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f.ts,BLANK-播放器①①①
 翡翠台,http://120.84.96.33:808/hls/25/index.m3u8
@@ -1051,7 +1052,7 @@ J2,https://cdn.hklive.tv/raw/82.ts
 明珠台(粤),https://cdn.hklive.tv/raw/84b.ts
 明珠台,https://cdn.hklive.tv/raw/84.ts
 无线财经资讯,https://cdn.hklive.tv/raw/85.ts
-
+🛰️注意->,,https://vd3.bdstatic.com/mda-nf8ka3zqviucds0t/720p/h264/1654784642340564810/mda-nf8ka3zqviucds0t.mp4
 📽①①①①⇊,http://
 
 
