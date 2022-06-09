@@ -11,6 +11,7 @@
 翡翠台(备),http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/01
 翡翠台(备),http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/1
 翡翠台(备),http://andychuxdd.asuscomm.com:9981/stream/channelid/89897661?ticket=76ba9906d167ebcfdbbc722e620112da29f6d893&profile=pass
+翡翠台(备),http://209.141.56.65/nmtv.php?id=abb95d54-2d81-4b14-b27b-39d2f004945b
 
 明珠台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/02
 明珠台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/2
@@ -178,6 +179,13 @@ CCTV13新闻,http://117.148.179.162/PLTV/88888888/224/3221231636/index.m3u8
 无线新闻,http://ye23.win/iptv/tvb.php?id=5
 无线新闻,http://ye23.win:80/iptv/tvb.php?id=5
 无线新闻,http://radius.8866.org:880/hls/82/index.m3u8
+
+
+无线新闻(备),http://www.nettvpro.live/hls/tvb.php?id=1
+无线新闻(备),https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
+无线新闻(备),http://111.229.84.232/yulin/tvb.php?id=1
+
+
 
 有线新闻,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/04
 有线新闻,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/4
