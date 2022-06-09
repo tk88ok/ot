@@ -8,6 +8,10 @@
 翡翠台,mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f
 翡翠台,http://liuy.usa7.20212021.ga/ns.php?id=78
 
+翡翠台(备),http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/1
+翡翠台(备),http://andychuxdd.asuscomm.com:9981/stream/channelid/89897661?ticket=76ba9906d167ebcfdbbc722e620112da29f6d893&profile=pass
+
+明珠台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/2
 明珠台,http://120.84.96.25:808/hls/26/index.m3u8
 明珠台,http://120.84.96.33:808/hls/26/index.m3u8
 明珠台,http://120.84.96.32:808/hls/26/index.m3u8
@@ -147,6 +151,9 @@ CCTV4欧洲,http://117.148.179.162/PLTV/88888888/224/3221231615/index.m3u8
 CCTV4美州,http://117.148.179.162/PLTV/88888888/224/3221231654/index.m3u8
 
 CCTV13新闻,http://117.148.179.162/PLTV/88888888/224/3221231636/index.m3u8
+
+无线新闻,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/3
+有线新闻,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/4
 
 无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
 无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
@@ -463,7 +470,6 @@ BesTV百视通,http://cord.tvxio.bestv.com.cn/v1_0/k91/0g0/api/live/m3u8/9/f7b8e
 虎-中国新相亲,http://txtest-xp2p.p2p.huya.com/src/1449574865-1449574865-6225876638278615040-2847699130-10057-A-0-1.xs$房间号11352947
 虎-香港贺岁片,http://txtest-xp2p.p2p.huya.com/src/1449581589-1449581589-6225905517638713344-3048959636-10057-A-0-1.xs$房间号11601971
 虎-杰森·斯坦森,http://txtest-xp2p.p2p.huya.com/src/1099531752779-1099531752779-86436229716901888-2199063629014-10057-A-0-1.xs$房间号21059588
-虎-杰森·斯坦森,http://hy.tushepy.com/pls/huya.php?id=21059588&token=b3adbe6bddd60d88a76d35b4b3f289e8
 虎-大场面战争片,http://txtest-xp2p.p2p.huya.com/src/1099531752768-1099531752768-86436182472261632-2199063628992-10057-A-0-1.xs$房间号21059574
 虎-特种部队出发,http://txtest-xp2p.p2p.huya.com/src/1099531752783-1099531752783-86436246896771072-2199063629022-10057-A-0-1.xs$房间号21059592
 虎-两个光头赛车的故事,http://txtest-xp2p.p2p.huya.com/src/1099531752751-1099531752751-86436109457817600-2199063628958-10057-A-0-1.xs$房间号21059556
@@ -981,7 +987,6 @@ DJ情歌6首,https://vdse.bdstatic.com//c9e449d2db0a3fa5f6a8afafbc43fbdc.mp4
 
 
 测试1,#genre#
-
 
 
 
