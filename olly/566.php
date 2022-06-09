@@ -46,7 +46,7 @@ J2,http://119.29.145.154:9999/hh.php?tid=gt&id=12
 爆谷台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/26
 爆谷台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/14
 
-千禧经典台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/27
+TVB经典台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/27
 
 珠江台,http://iptv.eatuo.com:9901/tsfile/live/1001_1.m3u8
 珠江台,http://39.135.32.6:6610/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&IASHttpSessionId=OTT
