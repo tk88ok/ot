@@ -1,5 +1,5 @@
 🌎综合,#genre#,http://diyp.112114.xyz/
-🛰️所有台来源于网络，某些台才时可能失效,不能看请转台
+🛰️注意->,https://vd3.bdstatic.com/mda-nf8ka3zqviucds0t/720p/h264/1654784642340564810/mda-nf8ka3zqviucds0t.mp4
 
 翡翠台,mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f.ts,BLANK-播放器①①①
 翡翠台,http://120.84.96.33:808/hls/25/index.m3u8
