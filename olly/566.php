@@ -4,52 +4,33 @@
 
 翡翠台,mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f.ts,BLANK-播放器①①①
 翡翠台,http://120.84.96.33:808/hls/25/index.m3u8
-翡翠台,http://120.84.96.25:808/hls/25/index.m3u8
-翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
 翡翠台,mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f
+翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
 翡翠台,http://liuy.usa7.20212021.ga/ns.php?id=78
+翡翠台,http://120.84.96.25:808/hls/25/index.m3u8
 
 翡翠台(备),http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/01
 翡翠台(备),http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/1
-翡翠台(备),http://andychuxdd.asuscomm.com:9981/stream/channelid/89897661?ticket=76ba9906d167ebcfdbbc722e620112da29f6d893&profile=pass
 翡翠台(备),http://209.141.56.65/nmtv.php?id=abb95d54-2d81-4b14-b27b-39d2f004945b
+翡翠台(备),http://andychuxdd.asuscomm.com:9981/stream/channelid/89897661?ticket=76ba9906d167ebcfdbbc722e620112da29f6d893&profile=pass
+
 
 明珠台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/02
 明珠台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/2
-明珠台,http://120.84.96.25:808/hls/26/index.m3u8
 明珠台,http://120.84.96.33:808/hls/26/index.m3u8
-明珠台,http://120.84.96.32:808/hls/26/index.m3u8
 明珠台,http://qwas.eatuo.com:9901/tsfile/live/1014_1.m3u8
-明珠台,http://radius.8866.org:880/hls/84/index.m3u8
 
-J2,http://120.84.96.32:808/hls/86/index.m3u8
 J2,http://120.84.96.33:808/hls/86/index.m3u8
-J2,http://120.84.96.32:808/hls/86/index.m3u8
 J2,http://120.84.96.29:808/hls/86/index.m3u8
-J2,http://120.84.96.27:808/hls/86/index.m3u8
-J2,http://120.84.96.29:808/hls/86/index.m3u8
-J2,http://120.84.96.30:808/hls/86/index.m3u8
-J2,http://120.84.96.31:808/hls/86/index.m3u8
-J2,http://120.84.96.32:808/hls/86/index.m3u8
-J2,http://120.84.96.42:808/hls/86/index.m3u8
 J2,http://120.84.96.43:808/hls/86/index.m3u8
 J2,http://120.84.96.46:808/hls/86/index.m3u8
-J2,http://120.84.96.32:808/hls/86/index.m3u8
 J2,http://120.84.96.33:808/hls/86/index.m3u8
-J2,https://h.youtalk.top/hkj2b/49.m3u8
-J2,http://120.84.96.29:808/hls/86/index.m3u8
-J2,http://119.29.145.154:9999/hh.php?tid=gt&id=12
-
-开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
-开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
 爆谷台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/26
-爆谷台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/14
 
 珠江台,http://iptv.eatuo.com:9901/tsfile/live/1001_1.m3u8
-珠江台,http://39.135.32.6:6610/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 珠江台,http://120.84.96.42:808/hls/122/index.m3u8
-珠江台,http://120.84.96.30:808/hls/122/index.m3u8
+珠江台,http://39.135.32.6:6610/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 
 星空卫视,http://120.84.96.46:808/hls/79/index.m3u8
 星空卫视,http://120.84.96.43:808/hls/79/index.m3u8
@@ -66,7 +47,6 @@ J2,http://119.29.145.154:9999/hh.php?tid=gt&id=12
 
 广东卫视,http://117.148.179.159/PLTV/88888888/224/3221231502/index.m3u8
 广东卫视,http://39.135.55.105:6610/PLTV/88888888/224/3221227164/index.m3u8?servicetype=1
-广东卫视,http://117.148.179.162/PLTV/88888888/224/3221231891/index.m3u8
 广东卫视,http://117.148.179.166/PLTV/88888888/224/3221231891/index.m3u8
 广东卫视,http://117.148.179.159/PLTV/88888888/224/3221231502/index.m3u8
 
@@ -75,11 +55,11 @@ J2,http://119.29.145.154:9999/hh.php?tid=gt&id=12
 广东公共,http://183.11.239.32:808/hls/3/index.m3u8
 
 广东影视,http://183.11.239.32:808/hls/8/index.m3u8
-广东影视,http://120.84.96.32:808/hls/142/index.m3u8
-
+广东影视,http://120.84.96.33:808/hls/142/index.m3u8
 
 广东少儿,http://183.11.239.32:808/hls/9/index.m3u8
-广东少儿,http://120.84.96.32:808/hls/120/index.m3u8
+广东少儿,http://120.84.96.33:808/hls/120/index.m3u8
+
 广东体育,http://120.84.96.33:808/hls/22/index.m3u8
 
 广州新闻,http://ye23.win/iptv/gztv.php?id=xinwen
@@ -93,8 +73,8 @@ NewTV金牌综艺,http://39.134.65.162/PLTV/88888888/224/3221225525/index.m3u8
 NewTV金牌综艺,http://39.134.66.66/PLTV/88888888/224/3221225525/index.m3u8
 综艺现场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/621640581
 
-大愛,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大愛,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+大愛1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大愛2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
 澳门资讯,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/20
 澳门澳门,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/19
@@ -110,12 +90,6 @@ NewTV金牌综艺,http://39.134.66.66/PLTV/88888888/224/3221225525/index.m3u8
 
 澳视综艺,http://103.233.191.133:1935/ch6/hd_ch6.live/playlist.m3u8
 澳视Macau,http://61.244.22.4/ch3/ch3.live/index.m3u8
-
-卫视中文,http://211.23.114.106:11140/http/60.251.39.91:8081/hls/62/804/ch05.m3u8
-台视,http://211.23.114.106:11360/http/60.251.39.91:8081/hls/72/814/ch46.m3u8
-中视,http://211.23.114.106:11105/http/60.251.39.91:8081/hls/72/814/ch47.m3u8
-华视,http://211.23.114.106:11110/http/60.251.39.91:8081/hls/72/814/ch48.m3u8
-民视,http://211.23.114.106:11115/http/60.251.39.91:8081/hls/73/815/ch49.m3u8
 
 民视,rtmp://59.124.75.138/sat/tv051
 民视,rtmp://59.124.75.138:1935/sat/tv051
@@ -133,27 +107,26 @@ TVBS欢乐台,rtmp://59.124.75.138:1935/sat/tv421
 好消息综合台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8?$全网高清720P
 好消息综合台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 
-搞笑短片,https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 李子柒电视,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 
 
 🌎资讯,#genre#
 
-凤凰资讯,http://39.135.55.10:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1&IASHttpSessionId=OTT3410420220406144433022303
+凤凰资讯,http://39.135.55.105:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 凤凰资讯,http://120.84.96.33:808/hls/28/index.m3u8
-凤凰资讯,http://39.135.55.105:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
 凤凰资讯,http://183.207.249.34/PLTV/3/224/3221226923/index.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://111.59.189.40:8445/tsfile/live/1021_1.m3u8
 凤凰资讯,http://120.84.96.33:808/hls/28/index.m3u8
+凤凰资讯,http://39.135.55.10:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1&IASHttpSessionId=OTT3410420220406144433022303
 
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://39.135.55.105:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
 凤凰中文,http://111.59.189.40:8445/tsfile/live/1020_1.m3u8
 凤凰中文,http://183.207.249.34/PLTV/3/224/3221226922/index.m3u8
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 凤凰中文,http://120.84.96.33:808/hls/29/index.m3u8
 
@@ -183,7 +156,6 @@ CCTV13新闻,http://117.148.179.162/PLTV/88888888/224/3221231636/index.m3u8
 无线新闻,http://radius.8866.org:880/hls/82/index.m3u8
 
 无线新闻(备),http://www.nettvpro.live/hls/tvb.php?id=1
-无线新闻(备),https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
 无线新闻(备),http://111.229.84.232/yulin/tvb.php?id=1
 
 有线新闻,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/04
@@ -195,53 +167,30 @@ NOW新闻,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/5
 澳视资讯,http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
 澳视资讯,http://103.233.191.133:1935/ch5/info_ch5.live/playlist.m3u8
 
-中天新闻,http://211.23.114.106:11555/http/60.251.39.91:8081/hls/76/818/ch63.m3u8
-中天新闻,http://211.23.114.106:11555/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
-TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-
-三立新闻,http://211.23.114.106:11375/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
-年代新闻,http://211.23.114.106:11330/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-民视新闻,http://211.23.114.106:11370/http/60.251.39.91:8081/hls/73/815/ch51.m3u8
-非凡新闻,http://211.23.114.106:11380/http/60.251.39.91:8081/hls/75/817/ch57.m3u8
-环宇新闻,http://211.23.114.106:11400/http/60.251.39.91:8081/hls/76/818/ch62.m3u8
-环宇新闻,http://211.23.114.106:11400/http/60.251.39.91:8066/hls/210/10016/cstv16.m3u8
-
+TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻台,rtmp://59.124.75.138/sat/tv551
 TVBS新闻台,rtmp://59.124.75.138:1935/sat/tv551
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 
-壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
-壹新聞,http://stream.nexttv.com.tw/n001/playlist.m3u8
-
-民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-民视新闻,p5p://fccs.123178.top:9906/61494a92000be20d0d642b3f9739874e
-民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-
-台视新闻,https://ssttvv1.6zxr.xyz/tvbs/index.m3u8
-台视新闻,https://ssttvv1.6zxr.xyz/tvbs/hls/index.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-
 
 🛰️电影,#genre#
 🌎直播台⇊,http://
 
-CCTV6电影,http://117.148.179.162/PLTV/88888888/224/3221231724/index.m3u8
 CCTV6电影,http://117.148.179.136/PLTV/88888888/224/3221231724/1.m3u8
 CCTV6电影,http://111.63.117.13:6060/030000001000/CCTV-6/CCTV-6.m3u8?fmt=ts2hls
 CCTV6电影,http://111.63.117.13:6060/030000001000/CCTV-6/CCTV-6.m3u8?fmt=ts2hls
-
-
+CCTV6电影,http://117.148.179.162/PLTV/88888888/224/3221231724/index.m3u8
 
 澳门莲花,http://epg.112114.xyz/lotus
-澳门莲花,https://cdn2.mtime.info/live/amlh/kfmObuTD.m3u8
+
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
 澳门莲花,http://nettvpro.live/hls/lotustv.php
+澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
 澳门莲花,http://120.84.96.33:808/hls/24/index.m3u8
 澳门莲花,http://120.84.96.29:808/hls/24/index.m3u8
 澳门莲花,http://120.84.96.30:808/hls/24/index.m3u8
-澳门莲花,http://nettvpro.live/hls/lotustv.php
-澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
-
+澳门莲花,https://cdn2.mtime.info/live/amlh/kfmObuTD.m3u8
 
 
 黑莓电影,http://39.134.115.163:8080/PLTV/88888910/224/3221225718/index.m3u8
@@ -311,28 +260,17 @@ LS Time(龙祥时代),http://120.84.96.29:808/hls/35/index.m3u8
 高清大片,http://112.74.200.9:88/tv000000/m3u8.php?/migu/629943678
 亚洲影院,http://39.136.48.2:8089/PLTV/88888888/224/3221225844/index.m3u8
 
-星卫电影台,http://data.3g.yy.com/live/hls/29900720/29900720
-
 天映经典(CCM),http://120.84.96.33:808/hls/85/index.m3u8
 天映经典(CCM),http://gxfrg007.8800.org:8282/tsfile/live/1053_1.m3u8
 天映经典(CCM),http://120.84.96.32:808/hls/85/index.m3u8
 
-HBO,http://211.23.114.106:11410/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
-AXN,http://211.23.114.106:11140/http/60.251.39.91:8081/hls/71/813/ch43.m3u8
-好莱坞电影,http://211.23.114.106:11350/http/60.251.39.91:8081/hls/74/816/ch55.m3u8
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 
 东森洋片,http://gxfrg007.8800.org:8282/tsfile/live/1050_1.m3u8
-东森洋片,http://120.84.96.29:808/hls/33/index.m3u8
-东森洋片,http://120.84.96.32:808/hls/33/index.m3u8
-东森洋片,http://120.84.96.33:808/hls/33/index.m3u8
 
 东森电影,http://gxfrg007.8800.org:8282/tsfile/live/1049_1.m3u8
-东森电影,http://120.84.96.29:808/hls/32/index.m3u8
-东森电影,http://120.84.96.33:808/hls/32/index.m3u8
-东森电影,http://120.84.96.32:808/hls/32/index.m3u8
 
 🌎可回看轮播⇊,http://
 
@@ -517,8 +455,8 @@ Newtv潮妈辣婆,http://39.134.65.162/PLTV/88888888/224/3221225542/index.m3u8
 虎-史皇威尔(国外谍战片),http://txtest-xp2p.p2p.huya.com/src/1099531752780-1099531752780-86436234011869184-2199063629016-10057-A-0-1.xs$房间号21059587
 虎-惊心动魄的灾难片,http://txtest-xp2p.p2p.huya.com/src/1524439836-1524439836-6547419240339603456-3049003128-10057-A-0-1.xs$房间号11602075
 
-欧美大片[1920*1080],https://magselect-stirr.amagi.tv/playlist1080p.m3u8
-Hot欧美影院[1280*720],http://cache.ott.fifalive.itv.cmvideo.cn:80/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=no
+欧美大片,https://magselect-stirr.amagi.tv/playlist1080p.m3u8
+欧美影院,http://cache.ott.fifalive.itv.cmvideo.cn:80/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=no
 
 票房电影(爱奇艺)[896*376],http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
 收视冠军(爱奇艺)[1280*720],http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_230_720P_t10/c56_lb_230_720P_t10.m3u8
