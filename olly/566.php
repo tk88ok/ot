@@ -1,5 +1,5 @@
 🌎综合,#genre#,http://diyp.112114.xyz/
-🛰️注意->,https://gh.api.99988866.xyz/https://raw.githubusercontent.com/tk88ok/ot/main/olly/tvok.mp4
+🛰️注意->,https://vd3.bdstatic.com/mda-nfd2ntmisnheq6k5/sc/cae_h264/1655174060978134863/mda-nfd2ntmisnheq6k5.mp4
 
 
 翡翠台,mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f.ts,BLANK-播放器①①①
@@ -1149,7 +1149,9 @@ CCTV-15HD,http://39.134.65.162/PLTV/88888888/224/3221225513/1.m3u8
 江西卫视HD,http://39.134.193.100:6610/030000001001/HD-2500k-1080P-jiangxistv/1.m3u8?
 江西卫视HD,http://111.40.196.9/PLTV/88888888/224/3221225591/index.m3u8
 
-
+php测试,#genre#
+江苏卫视,http://t2.olly.vip:8100/PLTV/11.php?id=jsws
+江苏公共新闻,http://t2.olly.vip:8100/PLTV/11.php?id=jsgg
 
 
 
@@ -1157,6 +1159,7 @@ CCTV-15HD,http://39.134.65.162/PLTV/88888888/224/3221225513/1.m3u8
 
 
 🛰️网络HK TV翡翠,http://
+
 
 开电视,https://cdn.hklive.tv/raw/77.ts
 翡翠台1,https://cdn.hklive.tv/raw/81b.ts
