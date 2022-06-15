@@ -398,6 +398,7 @@ Newtv潮妈辣婆,http://39.134.65.162/PLTV/88888888/224/3221225542/index.m3u8
 
 🌎点播电影⇊,http://
 
+铁十字勋章,https://flv.bn.netease.com/2ba65779b2c62752cedcab6c3395e7f47e0c621ed3be27e444e25aa01d25591bd995f1c42398a3c19710f8988d8a6e8fdb968bd68b027c251b4c487e0433580c803fc857ba6302912aa337778e9c66043ba795010501cdb0f18797c1c1f3b35e4c7ae67241414a4d4bfc4b78e074e8fe19927bf1b9433280.mp4
 巨鳄风暴,https://s2.fsvod1.com/20220403/jQIZNURa/1200kb/hls/index.m3u8
 巨鳄风暴,https://s2.fsvod1.com/20220403/jQIZNURa/index.m3u8
 血拼大西洋,https://api.nxflv.com/Cache/SoHu/204e40d73847c5e555d3118ecaf94273.m3u8
