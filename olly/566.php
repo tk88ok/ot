@@ -482,7 +482,8 @@ Newtv潮妈辣婆,http://39.134.65.162/PLTV/88888888/224/3221225542/index.m3u8
 虎-漫威宇宙电影,http://txtest-xp2p.p2p.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.xs
 虎-史皇威尔(国外谍战片),http://txtest-xp2p.p2p.huya.com/src/1099531752780-1099531752780-86436234011869184-2199063629016-10057-A-0-1.xs$房间号21059587
 虎-惊心动魄的灾难片,http://txtest-xp2p.p2p.huya.com/src/1524439836-1524439836-6547419240339603456-3049003128-10057-A-0-1.xs$房间号11602075
-
+虎-玄幻剧场,http://txtest-xp2p.p2p.huya.com/src/1394575536-1394575536-5989656318921670656-2789274528-10057-A-0-1.xs$房间号11342414
+虎-洪金宝,http://txtest-xp2p.p2p.huya.com/src/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.xs$房间号1127925
 欧美大片,https://magselect-stirr.amagi.tv/playlist1080p.m3u8
 欧美影院,http://cache.ott.fifalive.itv.cmvideo.cn:80/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=no
 
@@ -1193,7 +1194,7 @@ J2,https://cdn.hklive.tv/raw/82.ts
 明珠台(粤),https://cdn.hklive.tv/raw/84b.ts
 明珠台,https://cdn.hklive.tv/raw/84.ts
 无线财经资讯,https://cdn.hklive.tv/raw/85.ts
-🛰️注意->,,https://vd3.bdstatic.com/mda-nf8ka3zqviucds0t/720p/h264/1654784642340564810/mda-nf8ka3zqviucds0t.mp4
+
 📽①①①①⇊,http://
 
 
