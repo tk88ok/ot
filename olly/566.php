@@ -3,11 +3,14 @@
 
 
 翡翠台,mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f.ts,BLANK-播放器①①①
+翡翠台,http://58.247.70.104:61985/hlsok/892debf01/index.m3u8
+翡翠台,http://58.247.70.104:61985/hlsok/892debf01/index.m3u8
 翡翠台,http://120.84.96.33:808/hls/25/index.m3u8
 翡翠台,mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f
 翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
 翡翠台,http://liuy.usa7.20212021.ga/ns.php?id=78
 翡翠台,http://120.84.96.25:808/hls/25/index.m3u8
+
 
 翡翠台(备),http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/01
 翡翠台(备),http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/1
@@ -144,10 +147,11 @@ CCTV13新闻,http://117.148.179.162/PLTV/88888888/224/3221231636/index.m3u8
 
 无线新闻,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/03
 无线新闻,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/3
-
+无线新闻台,http://58.247.70.104:61985/hlsok/f104404f0/index.m3u8
 无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
 无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
 无线新闻,http://ye23.win/iptv/tvb.php?id=1
+无线新闻台,http://58.247.70.104:61985/hlsok/f104404f0/index.m3u8
 无线新闻,http://ye23.win/iptv/tvb.php?id=5
 无线新闻,http://ye23.win/iptv/tvb.php?id=4
 无线新闻,http://ye23.win/iptv/tvb.php?id=1
@@ -167,15 +171,21 @@ NOW新闻,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/5
 澳视资讯,http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
 澳视资讯,http://103.233.191.133:1935/ch5/info_ch5.live/playlist.m3u8
 
+中天新闻,http://58.247.70.104:61985/hlsok/565046de1/index.m3u8
+壹新闻,http://58.247.70.104:61985/hlsok/cc4d59da/index.m3u8
+
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻台,rtmp://59.124.75.138/sat/tv551
 TVBS新闻台,rtmp://59.124.75.138:1935/sat/tv551
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+台视新闻,http://58.247.70.104:61985/hlsok/c23f3737/index.m3u8
+
+民视新闻,http://58.247.70.104:61985/hlsok/ced345d4/index.m3u8
 
 🛰️电影,#genre#
-🌎直播台⇊,http://
+✈️直播台⇊,http://
 
 CCTV6电影,http://117.148.179.136/PLTV/88888888/224/3221231724/1.m3u8
 CCTV6电影,http://111.63.117.13:6060/030000001000/CCTV-6/CCTV-6.m3u8?fmt=ts2hls
@@ -252,11 +262,11 @@ NewTV中国功夫,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
 
 NewTV爱情喜剧,http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
 
+LS Time(龙祥时代),http://58.247.70.104:61985/hlsok/e4a13cc1/index.m3u8
 LS Time(龙祥时代),http://120.84.96.33:808/hls/35/index.m3u8
 LS Time(龙祥时代),http://gxfrg007.8800.org:8282/tsfile/live/1048_1.m3u8
 LS Time(龙祥时代),http://120.84.96.29:808/hls/35/index.m3u8
-西片1,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-西片2,http://39.136.48.4:8089/PLTV/88888888/224/3221226345/index.m3u8
+
 高清大片,http://112.74.200.9:88/tv000000/m3u8.php?/migu/629943678
 亚洲影院,http://39.136.48.2:8089/PLTV/88888888/224/3221225844/index.m3u8
 
@@ -268,9 +278,26 @@ LS Time(龙祥时代),http://120.84.96.29:808/hls/35/index.m3u8
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 
+好莱坞电影台,http://58.247.70.104:61985/hlsok/a78680e4/index.m3u8
+
+HBO Signature(原创),http://58.247.70.104:61985/hlsok/3c54101b/index.m3u8
+HBO Hits(强档),http://58.247.70.104:61985/hlsok/335d6895/index.m3u8
+HBO Family(家庭),http://58.247.70.104:61985/hlsok/1a67a2aa/index.m3u8
+
+卫视洋片台,http://58.247.70.104:61985/hlsok/716adb39/index.m3u8
+卫视电影台,http://58.247.70.104:61985/hlsok/2359ba51/index.m3u8
+AXN,http://58.247.70.104:61985/hlsok/c1c18f78/index.m3u8
+东森洋片,http://58.247.70.104:61985/hlsok/14561539/index.m3u8
 东森洋片,http://gxfrg007.8800.org:8282/tsfile/live/1050_1.m3u8
 
+东森电影,http://58.247.70.104:61985/hlsok/75d7613b/index.m3u8
 东森电影,http://gxfrg007.8800.org:8282/tsfile/live/1049_1.m3u8
+
+星卫电影台,http://58.247.70.104:61985/hlsok/cfcece47/index.m3u8
+壹电影,http://58.247.70.104:61985/hlsok/4dcedbb6/index.m3u8
+
+西片1,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+西片2,http://39.136.48.4:8089/PLTV/88888888/224/3221226345/index.m3u8
 
 🌎可回看轮播⇊,http://
 
@@ -1150,11 +1177,7 @@ CCTV-15HD,http://39.134.65.162/PLTV/88888888/224/3221225513/1.m3u8
 江西卫视HD,http://39.134.193.100:6610/030000001001/HD-2500k-1080P-jiangxistv/1.m3u8?
 江西卫视HD,http://111.40.196.9/PLTV/88888888/224/3221225591/index.m3u8
 
-php测试,#genre#
-江苏卫视,http://t2.olly.vip:8100/PLTV/11.php?id=jsws
-江苏公共新闻,http://t2.olly.vip:8100/PLTV/11.php?id=jsgg
-
-
+✈️️测试,#genre#
 
 测试_1111,#genre#
 
