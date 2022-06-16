@@ -11,7 +11,8 @@
 翡翠台,http://liuy.usa7.20212021.ga/ns.php?id=78
 翡翠台,http://120.84.96.25:808/hls/25/index.m3u8
 
-
+翡翠台(备晴),mitv://ns2.hellotvvod.com:9906/ef5f038c1fd4439499c974db0853c5fb$派森原动力晴天mitv
+翡翠台(备晴),mitv://ns2.hellotvvod.com:9906/ef5f038c1fd4439499c974db0853c5fb$派森原动力晴天mitv
 翡翠台(备),http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/01
 翡翠台(备),http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/1
 翡翠台(备),http://209.141.56.65/nmtv.php?id=abb95d54-2d81-4b14-b27b-39d2f004945b
@@ -22,7 +23,9 @@
 明珠台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/2
 明珠台,http://120.84.96.33:808/hls/26/index.m3u8
 明珠台,http://qwas.eatuo.com:9901/tsfile/live/1014_1.m3u8
+明珠台(晴),mitv://ns2.hellotvvod.com:9906/fb704c28c18a4e1eb1494f9238551aab$派森原动力晴天mitv
 
+J2(晴),mitv://ns2.hellotvvod.com:9906/62130578e7014b41ab89e439cd19e345$派森原动力晴天mitv
 J2,http://120.84.96.33:808/hls/86/index.m3u8
 J2,http://120.84.96.29:808/hls/86/index.m3u8
 J2,http://120.84.96.43:808/hls/86/index.m3u8
@@ -94,18 +97,7 @@ NewTV金牌综艺,http://39.134.66.66/PLTV/88888888/224/3221225525/index.m3u8
 澳视综艺,http://103.233.191.133:1935/ch6/hd_ch6.live/playlist.m3u8
 澳视Macau,http://61.244.22.4/ch3/ch3.live/index.m3u8
 
-民视,rtmp://59.124.75.138/sat/tv051
-民视,rtmp://59.124.75.138:1935/sat/tv051
-台视,rtmp://59.124.75.138/sat/tv071
-台视,rtmp://59.124.75.138:1935/sat/tv071
-中视,rtmp://59.124.75.138/sat/tv091
-中视,rtmp://59.124.75.138:1935/sat/tv091
-华视,rtmp://59.124.75.138/sat/tv111
-华视,rtmp://59.124.75.138:1935/sat/tv111
-东森超视,rtmp://59.124.75.138/sat/tv331
-东森超视,rtmp://59.124.75.138:1935/sat/tv331
-TVBS欢乐台,rtmp://59.124.75.138/sat/tv421
-TVBS欢乐台,rtmp://59.124.75.138:1935/sat/tv421
+爆谷台(晴),mitv://ns2.hellotvvod.com:9906/c54a56bb1b164738b39c5f6e17c6ab83$派森原动力晴天mitv
 
 好消息综合台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8?$全网高清720P
 好消息综合台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
@@ -147,11 +139,11 @@ CCTV13新闻,http://117.148.179.162/PLTV/88888888/224/3221231636/index.m3u8
 
 无线新闻,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/03
 无线新闻,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/3
-无线新闻台,http://58.247.70.104:61985/hlsok/f104404f0/index.m3u8
+无线新闻,http://58.247.70.104:61985/hlsok/f104404f0/index.m3u8
 无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
 无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
 无线新闻,http://ye23.win/iptv/tvb.php?id=1
-无线新闻台,http://58.247.70.104:61985/hlsok/f104404f0/index.m3u8
+无线新闻,http://58.247.70.104:61985/hlsok/f104404f0/index.m3u8
 无线新闻,http://ye23.win/iptv/tvb.php?id=5
 无线新闻,http://ye23.win/iptv/tvb.php?id=4
 无线新闻,http://ye23.win/iptv/tvb.php?id=1
@@ -161,18 +153,30 @@ CCTV13新闻,http://117.148.179.162/PLTV/88888888/224/3221231636/index.m3u8
 
 无线新闻(备),http://www.nettvpro.live/hls/tvb.php?id=1
 无线新闻(备),http://111.229.84.232/yulin/tvb.php?id=1
+无线新闻(晴),mitv://ns2.hellotvvod.com:9906/73ae40d2945d4963ae6c287347d86e84$派森原动力晴天mitv
+无线新闻(晴),mitv://ns2.hellotvvod.com:9906/b41eb0b5981e48a391fec1e6c1567a47$派森原动力晴天mitv
 
 有线新闻,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/04
 有线新闻,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/4
+有线新闻(晴),mitv://ns2.hellotvvod.com:9906/e03aeb301c454a37a0037e80278b2c00$派森原动力晴天mitv
 
 NOW新闻,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/05
 NOW新闻,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/5
+NOW新闻(晴),mitv://ns2.hellotvvod.com:9906/f479f58dbc674704aec30e5d7b0e708b$派森原动力晴天mitv
 
 澳视资讯,http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
 澳视资讯,http://103.233.191.133:1935/ch5/info_ch5.live/playlist.m3u8
 
 中天新闻,http://58.247.70.104:61985/hlsok/565046de1/index.m3u8
 壹新闻,http://58.247.70.104:61985/hlsok/cc4d59da/index.m3u8
+
+中天新闻(晴),mitv://ns2.hellotvvod.com:9906/a3b86454babd4421b73f6e8297b5ed7b$派森原动力晴天mitv
+中天新闻(晴),mitv://ns2.hellotvvod.com:9906/a3b86454babd4421b73f6e8297b5ed7b$派森原动力晴天mitv
+中视新闻(晴),mitv://ns2.hellotvvod.com:9906/ffa76b8f6f41463b9184005134d383cf$派森原动力晴天mitv
+中视新闻(晴),mitv://ns2.hellotvvod.com:9906/be0796e6d0a641ec94bdf2a36b97250c$派森原动力晴天mitv
+TVBS新闻(晴),mitv://ns2.hellotvvod.com:9906/319f75ba607b4106ae311c44b6a94e50$派森原动力晴天mitv
+寰宇新闻(晴),mitv://ns2.hellotvvod.com:9906/a92e0242bd40432cac27672a4487f5d0$派森原动力晴天mitv
+东森新闻(晴),mitv://ns2.hellotvvod.com:9906/59e4c440ff2e48ca8d3c61b3d9b5eb8b$派森原动力晴天mitv
 
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻台,rtmp://59.124.75.138/sat/tv551
@@ -201,7 +205,7 @@ CCTV6电影,http://117.148.179.162/PLTV/88888888/224/3221231724/index.m3u8
 澳门莲花,http://120.84.96.29:808/hls/24/index.m3u8
 澳门莲花,http://120.84.96.30:808/hls/24/index.m3u8
 澳门莲花,https://cdn2.mtime.info/live/amlh/kfmObuTD.m3u8
-
+澳门莲花(晴),mitv://ns2.hellotvvod.com:9906/bc7b5921ec38436a9e1a27b8a8fd1324$派森原动力晴天mitv
 
 黑莓电影,http://39.134.115.163:8080/PLTV/88888910/224/3221225718/index.m3u8
 黑莓电影,http://39.134.115.163:8080/PLTV/88888910/224/3221225764/index.m3u8
@@ -277,22 +281,36 @@ LS Time(龙祥时代),http://120.84.96.29:808/hls/35/index.m3u8
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
+凤凰电影台(晴),mitv://ns2.hellotvvod.com:9906/56d03beeca584635b9650181abade903$派森原动力晴天mitv
 
 好莱坞电影台,http://58.247.70.104:61985/hlsok/a78680e4/index.m3u8
+好莱坞电影台(晴),mitv://ns2.hellotvvod.com:9906/7d23046e5e954a3aa51e619cef71deea$派森原动力晴天mitv
 
-HBO Signature(原创),http://58.247.70.104:61985/hlsok/3c54101b/index.m3u8
-HBO Hits(强档),http://58.247.70.104:61985/hlsok/335d6895/index.m3u8
-HBO Family(家庭),http://58.247.70.104:61985/hlsok/1a67a2aa/index.m3u8
+HBO(晴),mitv://ns2.hellotvvod.com:9906/6dcc289c378046cfb906d8ae08f73c86$派森原动力晴天mitv
+HBOSignature(原创),http://58.247.70.104:61985/hlsok/3c54101b/index.m3u8
+HBOSignature(晴原创),mitv://ns2.hellotvvod.com:9906/6cc6160dd4234fd394d0ec5b8139c69d$派森原动力晴天mitv
+HBOHits(强档),http://58.247.70.104:61985/hlsok/335d6895/index.m3u8
+HBOHits(晴强档),mitv://ns2.hellotvvod.com:9906/11ceb251cbeb47c286e1937e853a2096$派森原动力晴天mitv
+HBOFamily(家庭),http://58.247.70.104:61985/hlsok/1a67a2aa/index.m3u8
+HBOFamily(晴家庭),mitv://ns2.hellotvvod.com:9906/7ef5682175384cebb311b818b3f8ef87$派森原动力晴天mitv
 
 卫视洋片台,http://58.247.70.104:61985/hlsok/716adb39/index.m3u8
 卫视电影台,http://58.247.70.104:61985/hlsok/2359ba51/index.m3u8
+卫视电影台(晴),mitv://ns2.hellotvvod.com:9906/bbf242927bbb470fa0a8e8320f6e5691$派森原动力晴天mitv
 AXN,http://58.247.70.104:61985/hlsok/c1c18f78/index.m3u8
+AXN(晴),mitv://ns2.hellotvvod.com:9906/55f279fb6d714ba6babd744e96e3008a$派森原动力晴天mitv
+AMC(晴),mitv://ns2.hellotvvod.com:9906/d736de70d0a444418a5aed698cdb01e6$派森原动力晴天mitv
 东森洋片,http://58.247.70.104:61985/hlsok/14561539/index.m3u8
 东森洋片,http://gxfrg007.8800.org:8282/tsfile/live/1050_1.m3u8
-
+东森洋片(晴),mitv://ns2.hellotvvod.com:9906/c63744806af4498a97cdcc81389f3b4e$派森原动力晴天mitv
 东森电影,http://58.247.70.104:61985/hlsok/75d7613b/index.m3u8
 东森电影,http://gxfrg007.8800.org:8282/tsfile/live/1049_1.m3u8
-
+东森电影(晴),mitv://ns2.hellotvvod.com:9906/77c6190cab484acea558e8890f02ce0a$派森原动力晴天mitv
+靖天电影(晴),mitv://ns2.hellotvvod.com:9906/ca72a184acbe4bad9c8865696ce35e4a$派森原动力晴天mitv
+TVB经典台(晴),mitv://ns2.hellotvvod.com:9906/83d60fafbdbc442d9ec30a98839d8ddc$派森原动力晴天mitv
+TVB星河(晴),mitv://ns2.hellotvvod.com:9906/183238c73106418b8aa3c0a10ae19a7c$派森原动力晴天mitv
+有线电影台(晴),mitv://ns2.hellotvvod.com:9906/2ea57ec3a6f840909f2459facddb0857$派森原动力晴天mitv
+爆谷星影台(晴),mitv://ns2.hellotvvod.com:9906/a9e0428b9c0149d79f26310616182a4a$派森原动力晴天mitv
 星卫电影台,http://58.247.70.104:61985/hlsok/cfcece47/index.m3u8
 壹电影,http://58.247.70.104:61985/hlsok/4dcedbb6/index.m3u8
 
@@ -425,7 +443,6 @@ Newtv潮妈辣婆,http://39.134.65.162/PLTV/88888888/224/3221225542/index.m3u8
 
 🌎点播电影⇊,http://
 
-铁十字勋章,https://flv.bn.netease.com/2ba65779b2c62752cedcab6c3395e7f47e0c621ed3be27e444e25aa01d25591bd995f1c42398a3c19710f8988d8a6e8fdb968bd68b027c251b4c487e0433580c803fc857ba6302912aa337778e9c66043ba795010501cdb0f18797c1c1f3b35e4c7ae67241414a4d4bfc4b78e074e8fe19927bf1b9433280.mp4
 巨鳄风暴,https://s2.fsvod1.com/20220403/jQIZNURa/1200kb/hls/index.m3u8
 巨鳄风暴,https://s2.fsvod1.com/20220403/jQIZNURa/index.m3u8
 血拼大西洋,https://api.nxflv.com/Cache/SoHu/204e40d73847c5e555d3118ecaf94273.m3u8
@@ -1180,6 +1197,9 @@ CCTV-15HD,http://39.134.65.162/PLTV/88888888/224/3221225513/1.m3u8
 
 ✈️️测试,#genre#
 
+
+
+
 测试_1111,#genre#
 
 
@@ -1196,12 +1216,3 @@ J2,https://cdn.hklive.tv/raw/82.ts
 无线财经资讯,https://cdn.hklive.tv/raw/85.ts
 
 📽①①①①⇊,http://
-
-
-
-
-
-
-
-
-
